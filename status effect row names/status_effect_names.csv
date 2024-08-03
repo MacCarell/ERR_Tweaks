@@ -1,5 +1,11 @@
 ID,Name
 104900,Bleed Begin
+104990,Bleed 43
+104991,Bleed 44
+104992,Bleed 45
+104993,Bleed 45
+104994,Bleed 46
+104995,Bleed 47
 104996,Bleed 47
 104997,Bleed 48
 104998,Bleed 49
@@ -40,6 +46,7 @@ ID,Name
 105033,Bleed 87
 105034,Bleed 89
 105035,Bleed 90
+105325,Bleed End
 105493,Sleep Begin
 105497,Sleep 48
 105498,Sleep 49
@@ -185,6 +192,7 @@ ID,Name
 107051,Scarlet Rot 116
 107100,Scarlet Rot End
 107450,Frostbite Begin
+107499,Frostbite 49
 107500,Frostbite 50
 107501,Frostbite 51
 107502,Frostbite 52
@@ -285,6 +293,22 @@ ID,Name
 108049,Blight 111
 108100,Blight End
 108475,Madness Begin
+108476,Madness 34
+108477,Madness 36
+108478,Madness 35
+108479,Madness 36
+108480,Madness 37
+108481,Madness 37
+108482,Madness 38
+108483,Madness 39
+108484,Madness 39
+108485,Madness 40
+108486,Madness 41
+108487,Madness 41
+108488,Madness 42
+108489,Madness 43
+108490,Madness 43
+108491,Madness 44
 108492,Madness 45
 108493,Madness 45
 108494,Madness 46

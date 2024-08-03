@@ -1,4 +1,6 @@
+(frostbite|poison|bleed|sleep|madness|rot|blight)
+
 (cold|poison|bloody|soporific|frenzied|rotten|cursed) (twinblade|peeler|goldvine|twinned|broadsword|claymore)
 (cold|poison|bloody|soporific|frenzied|rotten|cursed) (twinned|harpoon|spear|pike|partisan)
 (cold|poison|bloody|soporific|frenzied|rotten|cursed) (flamberge|cross-naginata|marionette short)
-(cold|poison|bloody|soporific|frenzied|rotten|cursed|fated) (harpoon|spear|pike|partisan|cross-naginata|marionette spiked|rib-rake)
+(cold|poison|bloody|soporific|frenzied|rotten|cursed|fated) (harpoon|spear|pike|partisan|cross-naginata|rib-rake)
