@@ -3,17 +3,16 @@ Use the following steps within Smithbox when importing each of the various files
 
 
 ## Param Editor -> SpEffectParam
-**Status Effect Row Names:** *Data -> Import CSV -> From file... -> Row Name*
+**Status Effect Row Names:** *Data -> Import CSV -> From file... -> Row Name* -> "spEffect_row_names.csv"
+- Named various status effect rows so they are easier to identify in Smithbox
 
 
 ## Param Editor -> EquipParamWeapon
-**Celebrant's Frenzy Fix:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId0*
+**Crit Changes:** *Data -> Import CSV -> From file... -> Specific Field -> throwAtkRate* -> "throwAtkRate.csv"
+- Increased Short sword crit mult by 30
 
-**Short Sword Crit Boost:** *Data -> Import CSV -> From file... -> Specific Field -> throwAtkRate*
-
-**Spears Status Increase Part 1:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId0*
-
-**Spears Status Increase Part 2:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId1*
-- The rib-rake madness value assumes usage of the Celebrant's Frenzy Fix
-
-**Twinblades Status Increase:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId0*
+**Status Buildup Changes Part 1:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId0* -> "spEffectBehaviorId0.csv"
+**Status Buildup Changes Part 2:** *Data -> Import CSV -> From file... -> Specific Field -> spEffectBehaviorId1* -> "spEffectBehaviorId1.csv"
+- Increased madness buildup of Frenzied Fingerprint shield
+- Increased madness buildup of Frenzied Celebrant Weapons
+- Increased buildup values of spears and twinblades
