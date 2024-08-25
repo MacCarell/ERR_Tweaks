@@ -1,0 +1,3 @@
+ID,Name,equipId,value,mtrlId,eventFlag_forStock,eventFlag_forRelease,sellQuantity,pad3,equipType,costType,pad1,setNum,value_Add,value_Magnification,iconId,nameMsgId,menuTitleMsgId,menuIconId,pad2,
+32211,Frenzybone Bolt - Frenzied Cookbook [1],52210000,0,322092,0,1049630458,-1,0,0,0,0,30,0,1,-1,-1,-1,-1,[0|0]
+32210,Blightbone Bolt - Missionary's Cookbook [7],52200000,0,322091,0,1049630467,-1,0,0,0,0,30,0,1,-1,-1,-1,-1,[0|0]
