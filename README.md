@@ -3,8 +3,9 @@ Use the following steps within Smithbox when importing each of the various files
 
 
 ## Param Editor -> SpEffectParam
-**Status Effect Row Names:** *Data -> Import CSV -> From file... -> Row Name* -> "spEffect_row_names.csv"
-- Named various status effect rows so they are easier to identify in Smithbox
+**Status Effect Row Names:** *Data -> Import CSV -> From file... -> Row Name* -> "SpEffectParam/row-names.csv"
+- Named various status effects so they are easier to identify in Smithbox
+Same process for other param categories.
 
 
 ## Param Editor -> EquipParamWeapon
@@ -16,3 +17,5 @@ Use the following steps within Smithbox when importing each of the various files
 - Increased madness buildup of Frenzied Fingerprint shield
 - Increased madness buildup of Frenzied Celebrant Weapons
 - Increased buildup values of spears and twinblades
+
+For New additions, import all fields from a file.
