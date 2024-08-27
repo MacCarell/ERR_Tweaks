@@ -1,39 +1,4 @@
 ID,Name
-1000,
-1100,
-1200,
-1210,
-1220,
-1230,
-1240,
-1250,
-1260,
-1400,
-1410,
-1420,
-1430,
-1500,
-1600,
-1700,
-1800,
-1900,
-2000,
-2100,
-2200,
-11000,
-12000,
-13000,
-100000,
-100100,
-100200,
-100300,
-100400,
-100500,
-100600,
-100700,
-100800,
-100900,
-101000,
 110000,Unarmed
 170000,Throwing Dagger
 171000,Bone Dart
@@ -41,12 +6,6 @@ ID,Name
 173000,Kukri
 174000,Crystal Dart
 175000,Fan Daggers
-176100,
-176200,
-177000,
-177100,
-178000,
-178100,
 183000,Explosive Stone
 183100,Explosive Stone Clump
 184000,Poisoned Stone
@@ -62,16 +21,10 @@ ID,Name
 307000,Gravity Stone Chunk
 308000,Wraith Calling Bell
 351000,Spark Aromatic
-357000,
 358000,Poison Spraymist
-359000,
-360000,
 361000,Acid Spraymist
-362000,
-363000,
 470000,Innard Meat
 471000,Dragon Communion Harpoon
-472000,
 502000,Lamenter's Mask
 600000,Spritestone
 613000,Horned Bairn
@@ -90,31 +43,12 @@ ID,Name
 834000,Swarm Pot
 835000,Holy Water Pot
 835100,Sacred Order Pot
-836000,
 837000,Poison Pot
-838000,
-839000,
-839100,
-840000,Roped Fire Pot
-842000,Roped Lightning Pot
-843000,Roped Fetid Pot
-844000,Roped Poison Pot
-845000,
-846000,Roped Magic Pot
-847000,Roped Fly Pot
-848000,
-849000,Roped Volcano Pot
-851000,Roped Holy Water Pot
 860000,Volcano Pot
-861000,
-863000,
 864000,Sleep Pot / Eternal Sleep Pot
 865000,Rancor Pot
 866000,Magic Pot
 866100,Academy Magic Pot
-867000,
-868000,
-869000,
 930000,Hefty Fire Pot
 931000,Hefty Rock Pot
 932000,Hefty Lightning Pot
@@ -129,8 +63,6 @@ ID,Name
 969000,Hefty Red Lightning Pot
 970000,Red Lightning Pot
 971000,Frenzied Flame Pot
-974000,
-976000,Roped Frenzied Flame Pot
 1000000,Dagger
 1000100,Heavy Dagger
 1000200,Keen Dagger
@@ -144,17 +76,6 @@ ID,Name
 1001000,Poison Dagger
 1001100,Blood Dagger
 1001200,Occult Dagger
-1001300,
-1001400,
-1001500,
-1001600,
-1001700,
-1001800,
-1001900,
-1002000,
-1002100,
-1002200,
-1002300,
 1010000,Black Knife
 1020000,Parrying Dagger
 1020100,Heavy Parrying Dagger
@@ -169,17 +90,6 @@ ID,Name
 1021000,Poison Parrying Dagger
 1021100,Blood Parrying Dagger
 1021200,Occult Parrying Dagger
-1021300,
-1021400,
-1021500,
-1021600,
-1021700,
-1021800,
-1021900,
-1022000,
-1022100,
-1022200,
-1022300,
 1030000,Misericorde
 1030100,Heavy Misericorde
 1030200,Keen Misericorde
@@ -193,17 +103,6 @@ ID,Name
 1031000,Poison Misericorde
 1031100,Blood Misericorde
 1031200,Occult Misericorde
-1031300,
-1031400,
-1031500,
-1031600,
-1031700,
-1031800,
-1031900,
-1032000,
-1032100,
-1032200,
-1032300,
 1040000,Reduvia
 1050000,Crystal Knife
 1060000,Celebrant's Sickle
@@ -219,17 +118,6 @@ ID,Name
 1061000,Celebrant's Poison Sickle
 1061100,Celebrant's Blood Sickle
 1061200,Celebrant's Occult Sickle
-1061300,
-1061400,
-1061500,
-1061600,
-1061700,
-1061800,
-1061900,
-1062000,
-1062100,
-1062200,
-1062300,
 1070000,Glintstone Kris
 1080000,Scorpion's Stinger
 1090000,Great Knife
@@ -245,17 +133,6 @@ ID,Name
 1091000,Poison Great Knife
 1091100,Blood Great Knife
 1091200,Occult Great Knife
-1091300,
-1091400,
-1091500,
-1091600,
-1091700,
-1091800,
-1091900,
-1092000,
-1092100,
-1092200,
-1092300,
 1100000,Wakizashi
 1100100,Heavy Wakizashi
 1100200,Keen Wakizashi
@@ -269,42 +146,7 @@ ID,Name
 1101000,Poison Wakizashi
 1101100,Blood Wakizashi
 1101200,Occult Wakizashi
-1101300,
-1101400,
-1101500,
-1101600,
-1101700,
-1101800,
-1101900,
-1102000,
-1102100,
-1102200,
-1102300,
 1110000,Cinquedea
-1120000,
-1120100,
-1120200,
-1120300,
-1120400,
-1120500,
-1120600,
-1120700,
-1120800,
-1120900,
-1121000,
-1121100,
-1121200,
-1121300,
-1121400,
-1121500,
-1121600,
-1121700,
-1121800,
-1121900,
-1122000,
-1122100,
-1122200,
-1122300,
 1130000,Ivory Sickle
 1140000,Bloodstained Dagger
 1140100,Heavy Bloodstained Dagger
@@ -319,17 +161,6 @@ ID,Name
 1141000,Poison Bloodstained Dagger
 1141100,Blood Bloodstained Dagger
 1141200,Occult Bloodstained Dagger
-1141300,
-1141400,
-1141500,
-1141600,
-1141700,
-1141800,
-1141900,
-1142000,
-1142100,
-1142200,
-1142300,
 1150000,Erdsteel Dagger
 1150100,Heavy Erdsteel Dagger
 1150200,Keen Erdsteel Dagger
@@ -343,20 +174,7 @@ ID,Name
 1151000,Poison Erdsteel Dagger
 1151100,Blood Erdsteel Dagger
 1151200,Occult Erdsteel Dagger
-1151300,
-1151400,
-1151500,
-1151600,
-1151700,
-1151800,
-1151900,
-1152000,
-1152100,
-1152200,
-1152300,
 1160000,Blade of Calling
-1170000,
-1190000,
 1500000,Main-gauche
 1500100,Heavy Main-gauche
 1500200,Keen Main-gauche
@@ -370,17 +188,6 @@ ID,Name
 1501000,Poison Main-gauche
 1501100,Blood Main-gauche
 1501200,Occult Main-gauche
-1501300,
-1501400,
-1501500,
-1501600,
-1501700,
-1501800,
-1501900,
-1502000,
-1502100,
-1502200,
-1502300,
 1510000,Fire Knight's Shortsword
 1510100,Fire Knight's Heavy Shortsword
 1510200,Fire Knight's Keen Shortsword
@@ -394,19 +201,6 @@ ID,Name
 1511000,Fire Knight's Poison Shortsword
 1511100,Fire Knight's Blood Shortsword
 1511200,Fire Knight's Occult Shortsword
-1511300,
-1511400,
-1511500,
-1511600,
-1511700,
-1511800,
-1511900,
-1512000,
-1512100,
-1512200,
-1512300,
-1690000,
-1910000,
 2000000,Longsword
 2000100,Heavy Longsword
 2000200,Keen Longsword
@@ -420,17 +214,6 @@ ID,Name
 2001000,Poison Longsword
 2001100,Bloody Longsword
 2001200,Occult Longsword
-2001300,
-2001400,
-2001500,
-2001600,
-2001700,
-2001800,
-2001900,
-2002000,
-2002100,
-2002200,
-2002300,
 2010000,Short Sword
 2010100,Heavy Short Sword
 2010200,Keen Short Sword
@@ -444,17 +227,6 @@ ID,Name
 2011000,Poison Short Sword
 2011100,Blood Short Sword
 2011200,Occult Short Sword
-2011300,
-2011400,
-2011500,
-2011600,
-2011700,
-2011800,
-2011900,
-2012000,
-2012100,
-2012200,
-2012300,
 2020000,Broadsword
 2020100,Heavy Broadsword
 2020200,Keen Broadsword
@@ -468,41 +240,6 @@ ID,Name
 2021000,Poison Broadsword
 2021100,Blood Broadsword
 2021200,Occult Broadsword
-2021300,
-2021400,
-2021500,
-2021600,
-2021700,
-2021800,
-2021900,
-2022000,
-2022100,
-2022200,
-2022300,
-2030000,
-2030100,
-2030200,
-2030300,
-2030400,
-2030500,
-2030600,
-2030700,
-2030800,
-2030900,
-2031000,
-2031100,
-2031200,
-2031300,
-2031400,
-2031500,
-2031600,
-2031700,
-2031800,
-2031900,
-2032000,
-2032100,
-2032200,
-2032300,
 2040000,Lordsworn's Straight Sword
 2040100,Lordsworn's Heavy Straight Sword
 2040200,Lordsworn's Keen Straight Sword
@@ -516,17 +253,6 @@ ID,Name
 2041000,Lordsworn's Poison Straight Sword
 2041100,Lordsworn's Blood Straight Sword
 2041200,Lordsworn's Occult Straight Sword
-2041300,
-2041400,
-2041500,
-2041600,
-2041700,
-2041800,
-2041900,
-2042000,
-2042100,
-2042200,
-2042300,
 2050000,Weathered Straight Sword
 2050100,Weathered Heavy Straight Sword
 2050200,Weathered Keen Straight Sword
@@ -540,70 +266,11 @@ ID,Name
 2051000,Weathered Poison Straight Sword
 2051100,Weathered Blood Straight Sword
 2051200,Weathered Occult Straight Sword
-2051300,
-2051400,
-2051500,
-2051600,
-2051700,
-2051800,
-2051900,
-2052000,
-2052100,
-2052200,
-2052300,
 2060000,Ornamental Straight Sword
 2070000,Golden Epitaph
 2080000,Nox Flowing Sword
 2090000,Inseparable Sword
-2100000,
-2100100,
-2100200,
-2100300,
-2100400,
-2100500,
-2100600,
-2100700,
-2100800,
-2100900,
-2101000,
-2101100,
-2101200,
-2101300,
-2101400,
-2101500,
-2101600,
-2101700,
-2101800,
-2101900,
-2102000,
-2102100,
-2102200,
-2102300,
 2110000,Coded Sword
-2120000,
-2120100,
-2120200,
-2120300,
-2120400,
-2120500,
-2120600,
-2120700,
-2120800,
-2120900,
-2121000,
-2121100,
-2121200,
-2121300,
-2121400,
-2121500,
-2121600,
-2121700,
-2121800,
-2121900,
-2122000,
-2122100,
-2122200,
-2122300,
 2140000,Sword of Night and Flame
 2150000,Crystal Sword
 2180000,Carian Knight's Sword
@@ -622,17 +289,6 @@ ID,Name
 2211000,Poison Cane Sword
 2211100,Blood Cane Sword
 2211200,Occult Cane Sword
-2211300,
-2211400,
-2211500,
-2211600,
-2211700,
-2211800,
-2211900,
-2212000,
-2212100,
-2212200,
-2212300,
 2220000,Regalia of Eochaid
 2230000,Noble's Slender Sword
 2230100,Noble's Heavy Slender Sword
@@ -647,17 +303,6 @@ ID,Name
 2231000,Noble's Poison Slender Sword
 2231100,Noble's Blood Slender Sword
 2231200,Noble's Occult Slender Sword
-2231300,
-2231400,
-2231500,
-2231600,
-2231700,
-2231800,
-2231900,
-2232000,
-2232100,
-2232200,
-2232300,
 2240000,Warhawk's Talon
 2240100,Warhawk's Heavy Talon
 2240200,Warhawk's Keen Talon
@@ -671,17 +316,6 @@ ID,Name
 2241000,Warhawk's Poison Talon
 2241100,Warhawk's Blood Talon
 2241200,Warhawk's Occult Talon
-2241300,
-2241400,
-2241500,
-2241600,
-2241700,
-2241800,
-2241900,
-2242000,
-2242100,
-2242200,
-2242300,
 2250000,Lazuli Glintstone Sword
 2260000,Rotten Crystal Sword
 2510000,Velvet Sword of St. Trina
@@ -703,17 +337,6 @@ ID,Name
 3001000,Poison Bastard Sword
 3001100,Bloody Bastard Sword
 3001200,Occult Bastard Sword
-3001300,
-3001400,
-3001500,
-3001600,
-3001700,
-3001800,
-3001900,
-3002000,
-3002100,
-3002200,
-3002300,
 3010000,Forked Greatsword
 3010100,Heavy Forked Greatsword
 3010200,Keen Forked Greatsword
@@ -727,17 +350,6 @@ ID,Name
 3011000,Poison Forked Greatsword
 3011100,Blood Forked Greatsword
 3011200,Occult Forked Greatsword
-3011300,
-3011400,
-3011500,
-3011600,
-3011700,
-3011800,
-3011900,
-3012000,
-3012100,
-3012200,
-3012300,
 3020000,Iron Greatsword
 3020100,Heavy Iron Greatsword
 3020200,Keen Iron Greatsword
@@ -751,17 +363,6 @@ ID,Name
 3021000,Poison Iron Greatsword
 3021100,Blood Iron Greatsword
 3021200,Occult Iron Greatsword
-3021300,
-3021400,
-3021500,
-3021600,
-3021700,
-3021800,
-3021900,
-3022000,
-3022100,
-3022200,
-3022300,
 3030000,Lordsworn's Greatsword
 3030100,Lordsworn's Heavy Greatsword
 3030200,Lordsworn's Keen Greatsword
@@ -775,17 +376,6 @@ ID,Name
 3031000,Lordsworn's Poison Greatsword
 3031100,Lordsworn's Blood Greatsword
 3031200,Lordsworn's Occult Greatsword
-3031300,
-3031400,
-3031500,
-3031600,
-3031700,
-3031800,
-3031900,
-3032000,
-3032100,
-3032200,
-3032300,
 3040000,Knight's Greatsword
 3040100,Knight's Heavy Greatsword
 3040200,Knight's Keen Greatsword
@@ -799,17 +389,6 @@ ID,Name
 3041000,Knight's Poison Greatsword
 3041100,Knight's Blood Greatsword
 3041200,Knight's Occult Greatsword
-3041300,
-3041400,
-3041500,
-3041600,
-3041700,
-3041800,
-3041900,
-3042000,
-3042100,
-3042200,
-3042300,
 3050000,Flamberge
 3050100,Heavy Flamberge
 3050200,Keen Flamberge
@@ -823,17 +402,6 @@ ID,Name
 3051000,Poison Flamberge
 3051100,Blood Flamberge
 3051200,Occult Flamberge
-3051300,
-3051400,
-3051500,
-3051600,
-3051700,
-3051800,
-3051900,
-3052000,
-3052100,
-3052200,
-3052300,
 3060000,Ordovis's Greatsword
 3070000,Alabaster Lord's Sword
 3080000,Banished Knight's Greatsword
@@ -849,17 +417,6 @@ ID,Name
 3081000,Banished Knight's Poison Greatsword
 3081100,Banished Knight's Blood Greatsword
 3081200,Banished Knight's Occult Greatsword
-3081300,
-3081400,
-3081500,
-3081600,
-3081700,
-3081800,
-3081900,
-3082000,
-3082100,
-3082200,
-3082300,
 3090000,Dark Moon Greatsword
 3100000,Sacred Relic Sword
 3130000,Helphen's Steeple
@@ -880,17 +437,6 @@ ID,Name
 3181000,Poison Claymore
 3181100,Blood Claymore
 3181200,Occult Claymore
-3181300,
-3181400,
-3181500,
-3181600,
-3181700,
-3181800,
-3181900,
-3182000,
-3182100,
-3182200,
-3182300,
 3190000,Gargoyle's Greatsword
 3190100,Gargoyle's Heavy Greatsword
 3190200,Gargoyle's Keen Greatsword
@@ -904,20 +450,8 @@ ID,Name
 3191000,Gargoyle's Poison Greatsword
 3191100,Gargoyle's Blood Greatsword
 3191200,Gargoyle's Occult Greatsword
-3191300,
-3191400,
-3191500,
-3191600,
-3191700,
-3191800,
-3191900,
-3192000,
-3192100,
-3192200,
-3192300,
 3200000,Death's Poker
 3210000,Gargoyle's Blackblade
-3220000,
 3500000,Sword Lance
 3500100,Heavy Sword Lance
 3500200,Keen Sword Lance
@@ -931,17 +465,6 @@ ID,Name
 3501000,Poison Sword Lance
 3501100,Blood Sword Lance
 3501200,Occult Sword Lance
-3501300,
-3501400,
-3501500,
-3501600,
-3501700,
-3501800,
-3501900,
-3502000,
-3502100,
-3502200,
-3502300,
 3510000,Greatsword of Damnation
 3520000,Lizard Greatsword
 3520100,Heavy Lizard Greatsword
@@ -956,20 +479,7 @@ ID,Name
 3521000,Poison Lizard Greatsword
 3521100,Blood Lizard Greatsword
 3521200,Occult Lizard Greatsword
-3521300,
-3521400,
-3521500,
-3521600,
-3521700,
-3521800,
-3521900,
-3522000,
-3522100,
-3522200,
-3522300,
 3550000,Greatsword of Solitude
-3690000,
-3900000,
 4000000,Greatsword
 4000100,Heavy Greatsword
 4000200,Keen Greatsword
@@ -983,17 +493,6 @@ ID,Name
 4001000,Poison Greatsword
 4001100,Blood Greatsword
 4001200,Occult Greatsword
-4001300,
-4001400,
-4001500,
-4001600,
-4001700,
-4001800,
-4001900,
-4002000,
-4002100,
-4002200,
-4002300,
 4010000,Watchdog's Greatsword
 4010100,Watchdog's Heavy Greatsword
 4010200,Watchdog's Keen Greatsword
@@ -1007,17 +506,6 @@ ID,Name
 4011000,Watchdog's Poison Greatsword
 4011100,Watchdog's Blood Greatsword
 4011200,Watchdog's Occult Greatsword
-4011300,
-4011400,
-4011500,
-4011600,
-4011700,
-4011800,
-4011900,
-4012000,
-4012100,
-4012200,
-4012300,
 4020000,Maliketh's Black Blade
 4030000,Troll's Golden Sword
 4030100,Troll's Golden Heavy Sword
@@ -1032,17 +520,6 @@ ID,Name
 4031000,Troll's Golden Poison Sword
 4031100,Troll's Golden Blood Sword
 4031200,Troll's Golden Occult Sword
-4031300,
-4031400,
-4031500,
-4031600,
-4031700,
-4031800,
-4031900,
-4032000,
-4032100,
-4032200,
-4032300,
 4040000,Zweihander
 4040100,Heavy Zweihander
 4040200,Keen Zweihander
@@ -1056,17 +533,6 @@ ID,Name
 4041000,Poison Zweihander
 4041100,Blood Zweihander
 4041200,Occult Zweihander
-4041300,
-4041400,
-4041500,
-4041600,
-4041700,
-4041800,
-4041900,
-4042000,
-4042100,
-4042200,
-4042300,
 4050000,Starscourge Greatsword
 4060000,Royal Greatsword
 4070000,Godslayer's Greatsword
@@ -1087,23 +553,9 @@ ID,Name
 4521000,Fire Knight's Poison Greatsword
 4521100,Fire Knight's Blood Greatsword
 4521200,Fire Knight's Occult Greatsword
-4521300,
-4521400,
-4521500,
-4521600,
-4521700,
-4521800,
-4521900,
-4522000,
-4522100,
-4522200,
-4522300,
 4530000,Greatsword of Radahn (Lord)
 4540000,Moonrithyll's Knight Sword
 4550000,Greatsword of Radahn (Light)
-4690000,
-4900000,
-4910000,
 5000000,Estoc
 5000100,Heavy Estoc
 5000200,Keen Estoc
@@ -1117,17 +569,6 @@ ID,Name
 5001000,Poison Estoc
 5001100,Blood Estoc
 5001200,Occult Estoc
-5001300,
-5001400,
-5001500,
-5001600,
-5001700,
-5001800,
-5001900,
-5002000,
-5002100,
-5002200,
-5002300,
 5010000,Cleanrot Knight's Sword
 5010100,Cleanrot Knight's Heavy Sword
 5010200,Cleanrot Knight's Keen Sword
@@ -1141,17 +582,6 @@ ID,Name
 5011000,Cleanrot Knight's Poison Sword
 5011100,Cleanrot Knight's Blood Sword
 5011200,Cleanrot Knight's Occult Sword
-5011300,
-5011400,
-5011500,
-5011600,
-5011700,
-5011800,
-5011900,
-5012000,
-5012100,
-5012200,
-5012300,
 5020000,Rapier
 5020100,Heavy Rapier
 5020200,Keen Rapier
@@ -1165,17 +595,6 @@ ID,Name
 5021000,Poison Rapier
 5021100,Blood Rapier
 5021200,Occult Rapier
-5021300,
-5021400,
-5021500,
-5021600,
-5021700,
-5021800,
-5021900,
-5022000,
-5022100,
-5022200,
-5022300,
 5030000,Rogier's Rapier
 5030100,Rogier's Heavy Rapier
 5030200,Rogier's Keen Rapier
@@ -1189,17 +608,6 @@ ID,Name
 5031000,Rogier's Poison Rapier
 5031100,Rogier's Blood Rapier
 5031200,Rogier's Occult Rapier
-5031300,
-5031400,
-5031500,
-5031600,
-5031700,
-5031800,
-5031900,
-5032000,
-5032100,
-5032200,
-5032300,
 5040000,Antspur Rapier
 5040100,Heavy Antspur Rapier
 5040200,Keen Antspur Rapier
@@ -1213,17 +621,6 @@ ID,Name
 5041000,Poison Antspur Rapier
 5041100,Blood Antspur Rapier
 5041200,Occult Antspur Rapier
-5041300,
-5041400,
-5041500,
-5041600,
-5041700,
-5041800,
-5041900,
-5042000,
-5042100,
-5042200,
-5042300,
 5050000,Frozen Needle
 5060000,Noble's Estoc
 5060100,Noble's Heavy Estoc
@@ -1238,18 +635,6 @@ ID,Name
 5061000,Noble's Poison Estoc
 5061100,Noble's Blood Estoc
 5061200,Noble's Occult Estoc
-5061300,
-5061400,
-5061500,
-5061600,
-5061700,
-5061800,
-5061900,
-5062000,
-5062100,
-5062200,
-5062300,
-5690000,
 6000000,Bloody Helice
 6010000,Godskin Stitcher
 6010100,Heavy Godskin Stitcher
@@ -1264,17 +649,6 @@ ID,Name
 6011000,Poison Godskin Stitcher
 6011100,Blood Godskin Stitcher
 6011200,Occult Godskin Stitcher
-6011300,
-6011400,
-6011500,
-6011600,
-6011700,
-6011800,
-6011900,
-6012000,
-6012100,
-6012200,
-6012300,
 6020000,Great epee
 6020100,Heavy Great epee
 6020200,Keen Great epee
@@ -1288,17 +662,6 @@ ID,Name
 6021000,Poison Great epee
 6021100,Blood Great epee
 6021200,Occult Great epee
-6021300,
-6021400,
-6021500,
-6021600,
-6021700,
-6021800,
-6021900,
-6022000,
-6022100,
-6022200,
-6022300,
 6040000,Dragon King's Cragblade
 6500000,Queelign's Greatsword
 6500100,Queelign's Heavy Greatsword
@@ -1313,19 +676,6 @@ ID,Name
 6501000,Queelign's Poison Greatsword
 6501100,Queelign's Blood Greatsword
 6501200,Queelign's Occult Greatsword
-6501300,
-6501400,
-6501500,
-6501600,
-6501700,
-6501800,
-6501900,
-6502000,
-6502100,
-6502200,
-6502300,
-6690000,
-6900000,
 7000000,Falchion
 7000100,Heavy Falchion
 7000200,Keen Falchion
@@ -1339,17 +689,6 @@ ID,Name
 7001000,Poison Falchion
 7001100,Blood Falchion
 7001200,Occult Falchion
-7001300,
-7001400,
-7001500,
-7001600,
-7001700,
-7001800,
-7001900,
-7002000,
-7002100,
-7002200,
-7002300,
 7010000,Beastman's Curved Sword
 7010100,Beastman's Heavy Curved Sword
 7010200,Beastman's Keen Curved Sword
@@ -1363,17 +702,6 @@ ID,Name
 7011000,Beastman's Poison Curved Sword
 7011100,Beastman's Blood Curved Sword
 7011200,Beastman's Occult Curved Sword
-7011300,
-7011400,
-7011500,
-7011600,
-7011700,
-7011800,
-7011900,
-7012000,
-7012100,
-7012200,
-7012300,
 7020000,Shotel
 7020100,Heavy Shotel
 7020200,Keen Shotel
@@ -1387,17 +715,6 @@ ID,Name
 7021000,Poison Shotel
 7021100,Blood Shotel
 7021200,Occult Shotel
-7021300,
-7021400,
-7021500,
-7021600,
-7021700,
-7021800,
-7021900,
-7022000,
-7022100,
-7022200,
-7022300,
 7030000,Shamshir
 7030100,Heavy Shamshir
 7030200,Keen Shamshir
@@ -1411,17 +728,6 @@ ID,Name
 7031000,Poison Shamshir
 7031100,Blood Shamshir
 7031200,Occult Shamshir
-7031300,
-7031400,
-7031500,
-7031600,
-7031700,
-7031800,
-7031900,
-7032000,
-7032100,
-7032200,
-7032300,
 7040000,Bandit's Curved Sword
 7040100,Bandit's Heavy Curved Sword
 7040200,Bandit's Keen Curved Sword
@@ -1435,17 +741,6 @@ ID,Name
 7041000,Bandit's Poison Curved Sword
 7041100,Bandit's Blood Curved Sword
 7041200,Bandit's Occult Curved Sword
-7041300,
-7041400,
-7041500,
-7041600,
-7041700,
-7041800,
-7041900,
-7042000,
-7042100,
-7042200,
-7042300,
 7050000,Magma Blade
 7060000,Flowing Curved Sword
 7060100,Flowing Heavy Curved Sword
@@ -1460,17 +755,6 @@ ID,Name
 7061000,Flowing Poison Curved Sword
 7061100,Flowing Blood Curved Sword
 7061200,Flowing Occult Curved Sword
-7061300,
-7061400,
-7061500,
-7061600,
-7061700,
-7061800,
-7061900,
-7062000,
-7062100,
-7062200,
-7062300,
 7070000,Wing of Astel
 7080000,Scavenger's Curved Sword
 7080100,Scavenger's Heavy Curved Sword
@@ -1485,17 +769,6 @@ ID,Name
 7081000,Scavenger's Poison Curved Sword
 7081100,Scavenger's Blood Curved Sword
 7081200,Scavenger's Occult Curved Sword
-7081300,
-7081400,
-7081500,
-7081600,
-7081700,
-7081800,
-7081900,
-7082000,
-7082100,
-7082200,
-7082300,
 7100000,Eclipse Shotel
 7110000,Serpent-God's Curved Sword
 7110100,Serpent-God's Heavy Curved Sword
@@ -1510,17 +783,6 @@ ID,Name
 7111000,Serpent-God's Poison Curved Sword
 7111100,Serpent-God's Blood Curved Sword
 7111200,Serpent-God's Occult Curved Sword
-7111300,
-7111400,
-7111500,
-7111600,
-7111700,
-7111800,
-7111900,
-7112000,
-7112100,
-7112200,
-7112300,
 7120000,Mantis Blade
 7120100,Heavy Mantis Blade
 7120200,Keen Mantis Blade
@@ -1534,18 +796,6 @@ ID,Name
 7121000,Poison Mantis Blade
 7121100,Blood Mantis Blade
 7121200,Occult Mantis Blade
-7121300,
-7121400,
-7121500,
-7121600,
-7121700,
-7121800,
-7121900,
-7122000,
-7122100,
-7122200,
-7122300,
-7130000,
 7140000,Scimitar
 7140100,Heavy Scimitar
 7140200,Keen Scimitar
@@ -1559,17 +809,6 @@ ID,Name
 7141000,Poison Scimitar
 7141100,Bloody Scimitar
 7141200,Occult Scimitar
-7141300,
-7141400,
-7141500,
-7141600,
-7141700,
-7141800,
-7141900,
-7142000,
-7142100,
-7142200,
-7142300,
 7150000,Grossmesser
 7150100,Heavy Grossmesser
 7150200,Keen Grossmesser
@@ -1583,48 +822,10 @@ ID,Name
 7151000,Poison Grossmesser
 7151100,Blood Grossmesser
 7151200,Occult Grossmesser
-7151300,
-7151400,
-7151500,
-7151600,
-7151700,
-7151800,
-7151900,
-7152000,
-7152100,
-7152200,
-7152300,
-7160000,
-7160100,
-7160200,
-7160300,
-7160400,
-7160500,
-7160600,
-7160700,
-7160800,
-7160900,
-7161000,
-7161100,
-7161200,
-7161300,
-7161400,
-7161500,
-7161600,
-7161700,
-7161800,
-7161900,
-7162000,
-7162100,
-7162200,
-7162300,
 7500000,Spirit Sword
 7510000,Falx
 7520000,Dancing Blade of Ranah
 7530000,Horned Warrior's Sword
-7670000,
-7680000,
-7690000,
 8010000,Onyx Lord's Greatsword
 8020000,Dismounter
 8020100,Heavy Dismounter
@@ -1639,17 +840,6 @@ ID,Name
 8021000,Poison Dismounter
 8021100,Blood Dismounter
 8021200,Occult Dismounter
-8021300,
-8021400,
-8021500,
-8021600,
-8021700,
-8021800,
-8021900,
-8022000,
-8022100,
-8022200,
-8022300,
 8030000,Bloodhound's Fang
 8040000,Magma Wyrm's Scalesword
 8050000,Zamor Curved Sword
@@ -1666,17 +856,6 @@ ID,Name
 8061000,Poison Omen Cleaver
 8061100,Blood Omen Cleaver
 8061200,Occult Omen Cleaver
-8061300,
-8061400,
-8061500,
-8061600,
-8061700,
-8061800,
-8061900,
-8062000,
-8062100,
-8062200,
-8062300,
 8070000,Monk's Flameblade
 8070100,Monk's Heavy Flameblade
 8070200,Monk's Keen Flameblade
@@ -1690,17 +869,6 @@ ID,Name
 8071000,Monk's Poison Flameblade
 8071100,Monk's Blood Flameblade
 8071200,Monk's Occult Flameblade
-8071300,
-8071400,
-8071500,
-8071600,
-8071700,
-8071800,
-8071900,
-8072000,
-8072100,
-8072200,
-8072300,
 8080000,Beastman's Cleaver
 8080100,Beastman's Heavy Cleaver
 8080200,Beastman's Keen Cleaver
@@ -1714,20 +882,7 @@ ID,Name
 8081000,Beastman's Poison Cleaver
 8081100,Beastman's Blood Cleaver
 8081200,Beastman's Occult Cleaver
-8081300,
-8081400,
-8081500,
-8081600,
-8081700,
-8081800,
-8081900,
-8082000,
-8082100,
-8082200,
-8082300,
-8090000,
 8100000,Morgott's Cursed Sword
-8110000,
 8500000,Putrescence Cleaver
 8510000,Freyja's Greatsword
 8510100,Freyja's Heavy Greatsword
@@ -1742,20 +897,7 @@ ID,Name
 8511000,Freyja's Poison Greatsword
 8511100,Freyja's Blood Greatsword
 8511200,Freyja's Occult Greatsword
-8511300,
-8511400,
-8511500,
-8511600,
-8511700,
-8511800,
-8511900,
-8512000,
-8512100,
-8512200,
-8512300,
 8520000,Horned Warrior's Greatsword
-8690000,
-8900000,
 9000000,Uchigatana
 9000100,Heavy Uchigatana
 9000200,Keen Uchigatana
@@ -1769,17 +911,6 @@ ID,Name
 9001000,Poison Uchigatana
 9001100,Blood Uchigatana
 9001200,Occult Uchigatana
-9001300,
-9001400,
-9001500,
-9001600,
-9001700,
-9001800,
-9001900,
-9002000,
-9002100,
-9002200,
-9002300,
 9010000,Nagakiba
 9010100,Heavy Nagakiba
 9010200,Keen Nagakiba
@@ -1793,17 +924,6 @@ ID,Name
 9011000,Poison Nagakiba
 9011100,Blood Nagakiba
 9011200,Occult Nagakiba
-9011300,
-9011400,
-9011500,
-9011600,
-9011700,
-9011800,
-9011900,
-9012000,
-9012100,
-9012200,
-9012300,
 9020000,Hand of Malenia
 9030000,Meteoric Ore Blade
 9040000,Rivers of Blood
@@ -1822,25 +942,7 @@ ID,Name
 9081000,Poison Serpentbone Blade
 9081100,Blood Serpentbone Blade
 9081200,Occult Serpentbone Blade
-9081300,
-9081400,
-9081500,
-9081600,
-9081700,
-9081800,
-9081900,
-9082000,
-9082100,
-9082200,
-9082300,
 9500000,Sword of Night
-9680000,
-9690000,
-9900000,
-9910000,
-9911000,
-9920000,
-9930000,
 10000000,Twinblade
 10000100,Heavy Twinblade
 10000200,Keen Twinblade
@@ -1854,17 +956,6 @@ ID,Name
 10001000,Poison Twinblade
 10001100,Bloody Twinblade
 10001200,Occult Twinblade
-10001300,
-10001400,
-10001500,
-10001600,
-10001700,
-10001800,
-10001900,
-10002000,
-10002100,
-10002200,
-10002300,
 10010000,Godskin Peeler
 10010100,Heavy Godskin Peeler
 10010200,Keen Godskin Peeler
@@ -1878,17 +969,6 @@ ID,Name
 10011000,Poison Godskin Peeler
 10011100,Blood Godskin Peeler
 10011200,Occult Godskin Peeler
-10011300,
-10011400,
-10011500,
-10011600,
-10011700,
-10011800,
-10011900,
-10012000,
-10012100,
-10012200,
-10012300,
 10030000,Twinned Knight Swords
 10030100,Heavy Twinned Knight Swords
 10030200,Keen Twinned Knight Swords
@@ -1902,17 +982,6 @@ ID,Name
 10031000,Poison Twinned Knight Swords
 10031100,Blood Twinned Knight Swords
 10031200,Occult Twinned Knight Swords
-10031300,
-10031400,
-10031500,
-10031600,
-10031700,
-10031800,
-10031900,
-10032000,
-10032100,
-10032200,
-10032300,
 10050000,Eleonora's Poleblade
 10080000,Gargoyle's Twinblade
 10080100,Gargoyle's Heavy Twinblade
@@ -1927,42 +996,7 @@ ID,Name
 10081000,Gargoyle's Poison Twinblade
 10081100,Gargoyle's Blood Twinblade
 10081200,Gargoyle's Occult Twinblade
-10081300,
-10081400,
-10081500,
-10081600,
-10081700,
-10081800,
-10081900,
-10082000,
-10082100,
-10082200,
-10082300,
 10090000,Gargoyle's Black Blades
-10100000,
-10100100,
-10100200,
-10100300,
-10100400,
-10100500,
-10100600,
-10100700,
-10100800,
-10100900,
-10101000,
-10101100,
-10101200,
-10101300,
-10101400,
-10101500,
-10101600,
-10101700,
-10101800,
-10101900,
-10102000,
-10102100,
-10102200,
-10102300,
 10500000,Euporia
 10510000,Black Steel Twinblade
 10510100,Heavy Black Steel Twinblade
@@ -1977,17 +1011,6 @@ ID,Name
 10511000,Poison Black Steel Twinblade
 10511100,Blood Black Steel Twinblade
 10511200,Occult Black Steel Twinblade
-10511300,
-10511400,
-10511500,
-10511600,
-10511700,
-10511800,
-10511900,
-10512000,
-10512100,
-10512200,
-10512300,
 11000000,Mace
 11000100,Heavy Mace
 11000200,Keen Mace
@@ -2001,17 +1024,6 @@ ID,Name
 11001000,Poison Mace
 11001100,Blood Mace
 11001200,Occult Mace
-11001300,
-11001400,
-11001500,
-11001600,
-11001700,
-11001800,
-11001900,
-11002000,
-11002100,
-11002200,
-11002300,
 11010000,Club
 11010100,Heavy Club
 11010200,Keen Club
@@ -2025,17 +1037,6 @@ ID,Name
 11011000,Poison Club
 11011100,Bloody Club
 11011200,Occult Club
-11011300,
-11011400,
-11011500,
-11011600,
-11011700,
-11011800,
-11011900,
-11012000,
-11012100,
-11012200,
-11012300,
 11030000,Curved Club
 11030100,Heavy Curved Club
 11030200,Keen Curved Club
@@ -2049,17 +1050,6 @@ ID,Name
 11031000,Poison Curved Club
 11031100,Blood Curved Club
 11031200,Occult Curved Club
-11031300,
-11031400,
-11031500,
-11031600,
-11031700,
-11031800,
-11031900,
-11032000,
-11032100,
-11032200,
-11032300,
 11040000,Warpick
 11040100,Heavy Warpick
 11040200,Keen Warpick
@@ -2073,17 +1063,6 @@ ID,Name
 11041000,Poison Warpick
 11041100,Blood Warpick
 11041200,Occult Warpick
-11041300,
-11041400,
-11041500,
-11041600,
-11041700,
-11041800,
-11041900,
-11042000,
-11042100,
-11042200,
-11042300,
 11050000,Morning Star
 11050100,Heavy Morning Star
 11050200,Keen Morning Star
@@ -2097,17 +1076,6 @@ ID,Name
 11051000,Poison Morning Star
 11051100,Blood Morning Star
 11051200,Occult Morning Star
-11051300,
-11051400,
-11051500,
-11051600,
-11051700,
-11051800,
-11051900,
-11052000,
-11052100,
-11052200,
-11052300,
 11060000,Varre's Bouquet
 11070000,Spiked Club
 11070100,Heavy Spiked Club
@@ -2122,17 +1090,6 @@ ID,Name
 11071000,Poison Spiked Club
 11071100,Blood Spiked Club
 11071200,Occult Spiked Club
-11071300,
-11071400,
-11071500,
-11071600,
-11071700,
-11071800,
-11071900,
-11072000,
-11072100,
-11072200,
-11072300,
 11080000,Hammer
 11080100,Heavy Hammer
 11080200,Keen Hammer
@@ -2146,17 +1103,6 @@ ID,Name
 11081000,Poison Hammer
 11081100,Blood Hammer
 11081200,Occult Hammer
-11081300,
-11081400,
-11081500,
-11081600,
-11081700,
-11081800,
-11081900,
-11082000,
-11082100,
-11082200,
-11082300,
 11090000,Monk's Flamemace
 11090100,Monk's Heavy Flamemace
 11090200,Monk's Keen Flamemace
@@ -2170,17 +1116,6 @@ ID,Name
 11091000,Monk's Poison Flamemace
 11091100,Monk's Blood Flamemace
 11091200,Monk's Occult Flamemace
-11091300,
-11091400,
-11091500,
-11091600,
-11091700,
-11091800,
-11091900,
-11092000,
-11092100,
-11092200,
-11092300,
 11100000,Envoy's Horn
 11110000,Scepter of the All-Knowing
 11120000,Nox Flowing Hammer
@@ -2198,21 +1133,8 @@ ID,Name
 11141000,Poison Stone Club
 11141100,Blood Stone Club
 11141200,Occult Stone Club
-11141300,
-11141400,
-11141500,
-11141600,
-11141700,
-11141800,
-11141900,
-11142000,
-11142100,
-11142200,
-11142300,
 11150000,Marika's Hammer
-11170000,
 11500000,Flowerstone Gavel
-11690000,
 12000000,Large Club
 12000100,Heavy Large Club
 12000200,Keen Large Club
@@ -2226,17 +1148,6 @@ ID,Name
 12001000,Poison Large Club
 12001100,Blood Large Club
 12001200,Occult Large Club
-12001300,
-12001400,
-12001500,
-12001600,
-12001700,
-12001800,
-12001900,
-12002000,
-12002100,
-12002200,
-12002300,
 12010000,Greathorn Hammer
 12010100,Heavy Greathorn Hammer
 12010200,Keen Greathorn Hammer
@@ -2250,17 +1161,6 @@ ID,Name
 12011000,Poison Greathorn Hammer
 12011100,Blood Greathorn Hammer
 12011200,Occult Greathorn Hammer
-12011300,
-12011400,
-12011500,
-12011600,
-12011700,
-12011800,
-12011900,
-12012000,
-12012100,
-12012200,
-12012300,
 12020000,Battle Hammer
 12020100,Heavy Battle Hammer
 12020200,Keen Battle Hammer
@@ -2274,41 +1174,6 @@ ID,Name
 12021000,Poison Battle Hammer
 12021100,Blood Battle Hammer
 12021200,Occult Battle Hammer
-12021300,
-12021400,
-12021500,
-12021600,
-12021700,
-12021800,
-12021900,
-12022000,
-12022100,
-12022200,
-12022300,
-12030000,
-12030100,
-12030200,
-12030300,
-12030400,
-12030500,
-12030600,
-12030700,
-12030800,
-12030900,
-12031000,
-12031100,
-12031200,
-12031300,
-12031400,
-12031500,
-12031600,
-12031700,
-12031800,
-12031900,
-12032000,
-12032100,
-12032200,
-12032300,
 12060000,Great Mace
 12060100,Heavy Great Mace
 12060200,Keen Great Mace
@@ -2322,17 +1187,6 @@ ID,Name
 12061000,Poison Great Mace
 12061100,Blood Great Mace
 12061200,Occult Great Mace
-12061300,
-12061400,
-12061500,
-12061600,
-12061700,
-12061800,
-12061900,
-12062000,
-12062100,
-12062200,
-12062300,
 12080000,Curved Great Club
 12080100,Heavy Curved Great Club
 12080200,Keen Curved Great Club
@@ -2346,17 +1200,6 @@ ID,Name
 12081000,Poison Curved Great Club
 12081100,Blood Curved Great Club
 12081200,Occult Curved Great Club
-12081300,
-12081400,
-12081500,
-12081600,
-12081700,
-12081800,
-12081900,
-12082000,
-12082100,
-12082200,
-12082300,
 12130000,Celebrant's Skull
 12130100,Celebrant's Heavy Skull
 12130200,Celebrant's Keen Skull
@@ -2370,17 +1213,6 @@ ID,Name
 12131000,Celebrant's Poison Skull
 12131100,Celebrant's Blood Skull
 12131200,Celebrant's Occult Skull
-12131300,
-12131400,
-12131500,
-12131600,
-12131700,
-12131800,
-12131900,
-12132000,
-12132100,
-12132200,
-12132300,
 12140000,Pickaxe
 12140100,Heavy Pickaxe
 12140200,Keen Pickaxe
@@ -2394,17 +1226,6 @@ ID,Name
 12141000,Poison Pickaxe
 12141100,Blood Pickaxe
 12141200,Occult Pickaxe
-12141300,
-12141400,
-12141500,
-12141600,
-12141700,
-12141800,
-12141900,
-12142000,
-12142100,
-12142200,
-12142300,
 12150000,Beastclaw Greathammer
 12160000,Envoy's Long Horn
 12170000,Cranial Vessel Candlestand
@@ -2421,17 +1242,6 @@ ID,Name
 12181000,Poison Great Stars
 12181100,Blood Great Stars
 12181200,Occult Great Stars
-12181300,
-12181400,
-12181500,
-12181600,
-12181700,
-12181800,
-12181900,
-12182000,
-12182100,
-12182200,
-12182300,
 12190000,Brick Hammer
 12190100,Heavy Brick Hammer
 12190200,Keen Brick Hammer
@@ -2445,17 +1255,6 @@ ID,Name
 12191000,Poison Brick Hammer
 12191100,Blood Brick Hammer
 12191200,Occult Brick Hammer
-12191300,
-12191400,
-12191500,
-12191600,
-12191700,
-12191800,
-12191900,
-12192000,
-12192100,
-12192200,
-12192300,
 12200000,Devourer's Scepter
 12210000,Rotten Battle Hammer
 12210100,Heavy Rotten Battle Hammer
@@ -2470,17 +1269,6 @@ ID,Name
 12211000,Poison Rotten Battle Hammer
 12211100,Blood Rotten Battle Hammer
 12211200,Occult Rotten Battle Hammer
-12211300,
-12211400,
-12211500,
-12211600,
-12211700,
-12211800,
-12211900,
-12212000,
-12212100,
-12212200,
-12212300,
 12500000,Smithscript Greathammer
 12500100,Heavy Smithscript Greathammer
 12500200,Keen Smithscript Greathammer
@@ -2494,17 +1282,6 @@ ID,Name
 12501000,Poison Smithscript Greathammer
 12501100,Blood Smithscript Greathammer
 12501200,Occult Smithscript Greathammer
-12501300,
-12501400,
-12501500,
-12501600,
-12501700,
-12501800,
-12501900,
-12502000,
-12502100,
-12502200,
-12502300,
 12510000,Anvil Hammer
 12520000,Black Steel Greathammer
 12520100,Heavy Black Steel Greathammer
@@ -2519,17 +1296,6 @@ ID,Name
 12521000,Poison Black Steel Greathammer
 12521100,Blood Black Steel Greathammer
 12521200,Occult Black Steel Greathammer
-12521300,
-12521400,
-12521500,
-12521600,
-12521700,
-12521800,
-12521900,
-12522000,
-12522100,
-12522200,
-12522300,
 12530000,Bloodfiend's Arm
 12530100,Bloodfiend's Heavy Arm
 12530200,Bloodfiend's Keen Arm
@@ -2543,19 +1309,6 @@ ID,Name
 12531000,Bloodfiend's Poison Arm
 12531100,Bloodfiend's Blood Arm
 12531200,Bloodfiend's Occult Arm
-12531300,
-12531400,
-12531500,
-12531600,
-12531700,
-12531800,
-12531900,
-12532000,
-12532100,
-12532200,
-12532300,
-12900000,
-12910000,
 13000000,Nightrider Flail
 13000100,Heavy Nightrider Flail
 13000200,Keen Nightrider Flail
@@ -2569,17 +1322,6 @@ ID,Name
 13001000,Poison Nightrider Flail
 13001100,Blood Nightrider Flail
 13001200,Occult Nightrider Flail
-13001300,
-13001400,
-13001500,
-13001600,
-13001700,
-13001800,
-13001900,
-13002000,
-13002100,
-13002200,
-13002300,
 13010000,Flail
 13010100,Heavy Flail
 13010200,Keen Flail
@@ -2593,17 +1335,6 @@ ID,Name
 13011000,Poison Flail
 13011100,Blood Flail
 13011200,Occult Flail
-13011300,
-13011400,
-13011500,
-13011600,
-13011700,
-13011800,
-13011900,
-13012000,
-13012100,
-13012200,
-13012300,
 13020000,Family Heads
 13030000,Bastard's Stars
 13040000,Chainlink Flail
@@ -2619,17 +1350,6 @@ ID,Name
 13041000,Poison Chainlink Flail
 13041100,Blood Chainlink Flail
 13041200,Occult Chainlink Flail
-13041300,
-13041400,
-13041500,
-13041600,
-13041700,
-13041800,
-13041900,
-13042000,
-13042100,
-13042200,
-13042300,
 13500000,Serpent Flail
 14000000,Battle Axe
 14000100,Heavy Battle Axe
@@ -2644,17 +1364,6 @@ ID,Name
 14001000,Poison Battle Axe
 14001100,Blood Battle Axe
 14001200,Occult Battle Axe
-14001300,
-14001400,
-14001500,
-14001600,
-14001700,
-14001800,
-14001900,
-14002000,
-14002100,
-14002200,
-14002300,
 14010000,Forked Hatchet
 14010100,Heavy Forked Hatchet
 14010200,Keen Forked Hatchet
@@ -2668,17 +1377,6 @@ ID,Name
 14011000,Poison Forked Hatchet
 14011100,Blood Forked Hatchet
 14011200,Occult Forked Hatchet
-14011300,
-14011400,
-14011500,
-14011600,
-14011700,
-14011800,
-14011900,
-14012000,
-14012100,
-14012200,
-14012300,
 14020000,Hand Axe
 14020100,Heavy Hand Axe
 14020200,Keen Hand Axe
@@ -2692,17 +1390,6 @@ ID,Name
 14021000,Poison Hand Axe
 14021100,Blood Hand Axe
 14021200,Occult Hand Axe
-14021300,
-14021400,
-14021500,
-14021600,
-14021700,
-14021800,
-14021900,
-14022000,
-14022100,
-14022200,
-14022300,
 14030000,Jawbone Axe
 14030100,Heavy Jawbone Axe
 14030200,Keen Jawbone Axe
@@ -2716,17 +1403,6 @@ ID,Name
 14031000,Poison Jawbone Axe
 14031100,Blood Jawbone Axe
 14031200,Occult Jawbone Axe
-14031300,
-14031400,
-14031500,
-14031600,
-14031700,
-14031800,
-14031900,
-14032000,
-14032100,
-14032200,
-14032300,
 14040000,Iron Cleaver
 14040100,Heavy Iron Cleaver
 14040200,Keen Iron Cleaver
@@ -2740,17 +1416,6 @@ ID,Name
 14041000,Poison Iron Cleaver
 14041100,Blood Iron Cleaver
 14041200,Occult Iron Cleaver
-14041300,
-14041400,
-14041500,
-14041600,
-14041700,
-14041800,
-14041900,
-14042000,
-14042100,
-14042200,
-14042300,
 14050000,Ripple Blade
 14060000,Celebrant's Cleaver
 14060100,Celebrant's Heavy Cleaver
@@ -2765,18 +1430,6 @@ ID,Name
 14061000,Celebrant's Poison Cleaver
 14061100,Celebrant's Blood Cleaver
 14061200,Celebrant's Occult Cleaver
-14061300,
-14061400,
-14061500,
-14061600,
-14061700,
-14061800,
-14061900,
-14062000,
-14062100,
-14062200,
-14062300,
-14070000,
 14080000,Icerind Hatchet
 14100000,Highland Axe
 14100100,Heavy Highland Axe
@@ -2791,17 +1444,6 @@ ID,Name
 14101000,Poison Highland Axe
 14101100,Bloody Highland Axe
 14101200,Occult Highland Axe
-14101300,
-14101400,
-14101500,
-14101600,
-14101700,
-14101800,
-14101900,
-14102000,
-14102100,
-14102200,
-14102300,
 14110000,Sacrificial Axe
 14110100,Heavy Sacrificial Axe
 14110200,Keen Sacrificial Axe
@@ -2815,17 +1457,6 @@ ID,Name
 14111000,Poison Sacrificial Axe
 14111100,Blood Sacrificial Axe
 14111200,Occult Sacrificial Axe
-14111300,
-14111400,
-14111500,
-14111600,
-14111700,
-14111800,
-14111900,
-14112000,
-14112100,
-14112200,
-14112300,
 14120000,Rosus' Axe
 14140000,Stormhawk Axe
 14500000,Smithscript Axe
@@ -2841,17 +1472,6 @@ ID,Name
 14501000,Poison Smithscript Axe
 14501100,Blood Smithscript Axe
 14501200,Occult Smithscript Axe
-14501300,
-14501400,
-14501500,
-14501600,
-14501700,
-14501800,
-14501900,
-14502000,
-14502100,
-14502200,
-14502300,
 14510000,Death Knight's Twin Axes
 14520000,Messmer Soldier's Axe
 14520100,Messmer Soldier's Heavy Axe
@@ -2866,17 +1486,6 @@ ID,Name
 14521000,Messmer Soldier's Poison Axe
 14521100,Messmer Soldier's Blood Axe
 14521200,Messmer Soldier's Occult Axe
-14521300,
-14521400,
-14521500,
-14521600,
-14521700,
-14521800,
-14521900,
-14522000,
-14522100,
-14522200,
-14522300,
 14540000,Forked-Tongue Hatchet
 15000000,Greataxe
 15000100,Heavy Greataxe
@@ -2891,17 +1500,6 @@ ID,Name
 15001000,Poison Greataxe
 15001100,Blood Greataxe
 15001200,Occult Greataxe
-15001300,
-15001400,
-15001500,
-15001600,
-15001700,
-15001800,
-15001900,
-15002000,
-15002100,
-15002200,
-15002300,
 15010000,Warped Axe
 15010100,Heavy Warped Axe
 15010200,Keen Warped Axe
@@ -2915,17 +1513,6 @@ ID,Name
 15011000,Poison Warped Axe
 15011100,Blood Warped Axe
 15011200,Occult Warped Axe
-15011300,
-15011400,
-15011500,
-15011600,
-15011700,
-15011800,
-15011900,
-15012000,
-15012100,
-15012200,
-15012300,
 15020000,Great Omenkiller Cleaver
 15020100,Heavy Great Omenkiller Cleaver
 15020200,Keen Great Omenkiller Cleaver
@@ -2939,17 +1526,6 @@ ID,Name
 15021000,Poison Great Omenkiller Cleaver
 15021100,Blood Great Omenkiller Cleaver
 15021200,Occult Great Omenkiller Cleaver
-15021300,
-15021400,
-15021500,
-15021600,
-15021700,
-15021800,
-15021900,
-15022000,
-15022100,
-15022200,
-15022300,
 15030000,Crescent Moon Axe
 15030100,Heavy Crescent Moon Axe
 15030200,Keen Crescent Moon Axe
@@ -2963,17 +1539,6 @@ ID,Name
 15031000,Poison Crescent Moon Axe
 15031100,Blood Crescent Moon Axe
 15031200,Occult Crescent Moon Axe
-15031300,
-15031400,
-15031500,
-15031600,
-15031700,
-15031800,
-15031900,
-15032000,
-15032100,
-15032200,
-15032300,
 15040000,Axe of Godrick
 15050000,Longhaft Axe
 15050100,Heavy Longhaft Axe
@@ -2988,17 +1553,6 @@ ID,Name
 15051000,Poison Longhaft Axe
 15051100,Blood Longhaft Axe
 15051200,Occult Longhaft Axe
-15051300,
-15051400,
-15051500,
-15051600,
-15051700,
-15051800,
-15051900,
-15052000,
-15052100,
-15052200,
-15052300,
 15060000,Rusted Anchor
 15060100,Heavy Rusted Anchor
 15060200,Keen Rusted Anchor
@@ -3012,17 +1566,6 @@ ID,Name
 15061000,Poison Rusted Anchor
 15061100,Blood Rusted Anchor
 15061200,Occult Rusted Anchor
-15061300,
-15061400,
-15061500,
-15061600,
-15061700,
-15061800,
-15061900,
-15062000,
-15062100,
-15062200,
-15062300,
 15080000,Executioner's Greataxe
 15080100,Executioner's Heavy Greataxe
 15080200,Executioner's Keen Greataxe
@@ -3036,17 +1579,6 @@ ID,Name
 15081000,Executioner's Poison Greataxe
 15081100,Executioner's Blood Greataxe
 15081200,Executioner's Occult Greataxe
-15081300,
-15081400,
-15081500,
-15081600,
-15081700,
-15081800,
-15081900,
-15082000,
-15082100,
-15082200,
-15082300,
 15110000,Winged Greathorn
 15120000,Butchering Knife
 15120100,Heavy Butchering Knife
@@ -3061,17 +1593,6 @@ ID,Name
 15121000,Poison Butchering Knife
 15121100,Blood Butchering Knife
 15121200,Occult Butchering Knife
-15121300,
-15121400,
-15121500,
-15121600,
-15121700,
-15121800,
-15121900,
-15122000,
-15122100,
-15122200,
-15122300,
 15130000,Gargoyle's Great Axe
 15130100,Gargoyle's Heavy Great Axe
 15130200,Gargoyle's Keen Great Axe
@@ -3085,22 +1606,9 @@ ID,Name
 15131000,Gargoyle's Poison Great Axe
 15131100,Gargoyle's Blood Great Axe
 15131200,Gargoyle's Occult Great Axe
-15131300,
-15131400,
-15131500,
-15131600,
-15131700,
-15131800,
-15131900,
-15132000,
-15132100,
-15132200,
-15132300,
 15140000,Gargoyle's Black Axe
 15500000,Death Knight's Longhaft Axe
 15510000,Bonny Butchering Knife
-15690000,
-15900000,
 16000000,Short Spear
 16000100,Heavy Short Spear
 16000200,Keen Short Spear
@@ -3114,17 +1622,6 @@ ID,Name
 16001000,Poison Short Spear
 16001100,Blood Short Spear
 16001200,Occult Short Spear
-16001300,
-16001400,
-16001500,
-16001600,
-16001700,
-16001800,
-16001900,
-16002000,
-16002100,
-16002200,
-16002300,
 16010000,Spear
 16010100,Heavy Spear
 16010200,Keen Spear
@@ -3138,17 +1635,6 @@ ID,Name
 16011000,Poison Spear
 16011100,Bloody Spear
 16011200,Occult Spear
-16011300,
-16011400,
-16011500,
-16011600,
-16011700,
-16011800,
-16011900,
-16012000,
-16012100,
-16012200,
-16012300,
 16020000,Crystal Spear
 16030000,Clayman's Harpoon
 16030100,Clayman's Heavy Harpoon
@@ -3163,17 +1649,6 @@ ID,Name
 16031000,Clayman's Poison Harpoon
 16031100,Clayman's Blood Harpoon
 16031200,Clayman's Occult Harpoon
-16031300,
-16031400,
-16031500,
-16031600,
-16031700,
-16031800,
-16031900,
-16032000,
-16032100,
-16032200,
-16032300,
 16040000,Cleanrot Spear
 16050000,Partisan
 16050100,Heavy Partisan
@@ -3188,17 +1663,6 @@ ID,Name
 16051000,Poison Partisan
 16051100,Blood Partisan
 16051200,Occult Partisan
-16051300,
-16051400,
-16051500,
-16051600,
-16051700,
-16051800,
-16051900,
-16052000,
-16052100,
-16052200,
-16052300,
 16060000,Celebrant's Rib-Rake
 16060100,Celebrant's Heavy Rib-Rake
 16060200,Celebrant's Keen Rib-Rake
@@ -3212,17 +1676,6 @@ ID,Name
 16061000,Celebrant's Poison Rib-Rake
 16061100,Celebrant's Blood Rib-Rake
 16061200,Celebrant's Occult Rib-Rake
-16061300,
-16061400,
-16061500,
-16061600,
-16061700,
-16061800,
-16061900,
-16062000,
-16062100,
-16062200,
-16062300,
 16070000,Pike
 16070100,Heavy Pike
 16070200,Keen Pike
@@ -3236,20 +1689,8 @@ ID,Name
 16071000,Poison Pike
 16071100,Blood Pike
 16071200,Occult Pike
-16071300,
-16071400,
-16071500,
-16071600,
-16071700,
-16071800,
-16071900,
-16072000,
-16072100,
-16072200,
-16072300,
 16080000,Torchpole
 16090000,Bolt of Gransax
-16100000,
 16110000,Cross-Naginata
 16110100,Heavy Cross-Naginata
 16110200,Keen Cross-Naginata
@@ -3263,17 +1704,6 @@ ID,Name
 16111000,Poison Cross-Naginata
 16111100,Blood Cross-Naginata
 16111200,Occult Cross-Naginata
-16111300,
-16111400,
-16111500,
-16111600,
-16111700,
-16111800,
-16111900,
-16112000,
-16112100,
-16112200,
-16112300,
 16120000,Death Ritual Spear
 16130000,Inquisitor's Girandole
 16140000,Spiked Spear
@@ -3289,17 +1719,6 @@ ID,Name
 16141000,Poison Spiked Spear
 16141100,Blood Spiked Spear
 16141200,Occult Spiked Spear
-16141300,
-16141400,
-16141500,
-16141600,
-16141700,
-16141800,
-16141900,
-16142000,
-16142100,
-16142200,
-16142300,
 16150000,Iron Spear
 16150100,Heavy Iron Spear
 16150200,Keen Iron Spear
@@ -3313,66 +1732,7 @@ ID,Name
 16151000,Poison Iron Spear
 16151100,Blood Iron Spear
 16151200,Occult Iron Spear
-16151300,
-16151400,
-16151500,
-16151600,
-16151700,
-16151800,
-16151900,
-16152000,
-16152100,
-16152200,
-16152300,
 16160000,Rotten Crystal Spear
-16170000,
-16170100,
-16170200,
-16170300,
-16170400,
-16170500,
-16170600,
-16170700,
-16170800,
-16170900,
-16171000,
-16171100,
-16171200,
-16171300,
-16171400,
-16171500,
-16171600,
-16171700,
-16171800,
-16171900,
-16172000,
-16172100,
-16172200,
-16172300,
-16180000,
-16180100,
-16180200,
-16180300,
-16180400,
-16180500,
-16180600,
-16180700,
-16180800,
-16180900,
-16181000,
-16181100,
-16181200,
-16181300,
-16181400,
-16181500,
-16181600,
-16181700,
-16181800,
-16181900,
-16182000,
-16182100,
-16182200,
-16182300,
 16500000,Smithscript Spear
 16500100,Heavy Smithscript Spear
 16500200,Keen Smithscript Spear
@@ -3386,17 +1746,6 @@ ID,Name
 16501000,Poison Smithscript Spear
 16501100,Blood Smithscript Spear
 16501200,Occult Smithscript Spear
-16501300,
-16501400,
-16501500,
-16501600,
-16501700,
-16501800,
-16501900,
-16502000,
-16502100,
-16502200,
-16502300,
 16520000,Swift Spear
 16520100,Heavy Swift Spear
 16520200,Keen Swift Spear
@@ -3410,17 +1759,6 @@ ID,Name
 16521000,Poison Swift Spear
 16521100,Blood Swift Spear
 16521200,Occult Swift Spear
-16521300,
-16521400,
-16521500,
-16521600,
-16521700,
-16521800,
-16521900,
-16522000,
-16522100,
-16522200,
-16522300,
 16540000,Bloodfiend's Fork
 16540100,Bloodfiend's Heavy Fork
 16540200,Bloodfiend's Keen Fork
@@ -3434,17 +1772,6 @@ ID,Name
 16541000,Bloodfiend's Poison Fork
 16541100,Bloodfiend's Blood Fork
 16541200,Bloodfiend's Occult Fork
-16541300,
-16541400,
-16541500,
-16541600,
-16541700,
-16541800,
-16541900,
-16542000,
-16542100,
-16542200,
-16542300,
 16550000,Bloodfiend's Sacred Spear
 17010000,Mohgwyn's Sacred Spear
 17020000,Siluria's Tree
@@ -3463,17 +1790,6 @@ ID,Name
 17061000,Poison Lance
 17061100,Bloody Lance
 17061200,Occult Lance
-17061300,
-17061400,
-17061500,
-17061600,
-17061700,
-17061800,
-17061900,
-17062000,
-17062100,
-17062200,
-17062300,
 17070000,Treespear
 17070100,Heavy Treespear
 17070200,Keen Treespear
@@ -3487,41 +1803,6 @@ ID,Name
 17071000,Poison Treespear
 17071100,Blood Treespear
 17071200,Occult Treespear
-17071300,
-17071400,
-17071500,
-17071600,
-17071700,
-17071800,
-17071900,
-17072000,
-17072100,
-17072200,
-17072300,
-17080000,
-17080100,
-17080200,
-17080300,
-17080400,
-17080500,
-17080600,
-17080700,
-17080800,
-17080900,
-17081000,
-17081100,
-17081200,
-17081300,
-17081400,
-17081500,
-17081600,
-17081700,
-17081800,
-17081900,
-17082000,
-17082100,
-17082200,
-17082300,
 17500000,Spear of the Impaler
 17510000,Messmer Soldier's Spear
 17510100,Messmer Soldier's Heavy Spear
@@ -3536,20 +1817,7 @@ ID,Name
 17511000,Messmer Soldier's Poison Spear
 17511100,Messmer Soldier's Blood Spear
 17511200,Messmer Soldier's Occult Spear
-17511300,
-17511400,
-17511500,
-17511600,
-17511700,
-17511800,
-17511900,
-17512000,
-17512100,
-17512200,
-17512300,
 17520000,Barbed Staff-Spear
-17900000,
-17910000,
 18000000,Halberd
 18000100,Heavy Halberd
 18000200,Keen Halberd
@@ -3563,17 +1831,6 @@ ID,Name
 18001000,Poison Halberd
 18001100,Blood Halberd
 18001200,Occult Halberd
-18001300,
-18001400,
-18001500,
-18001600,
-18001700,
-18001800,
-18001900,
-18002000,
-18002100,
-18002200,
-18002300,
 18010000,Pest's Glaive
 18010100,Pest's Heavy Glaive
 18010200,Pest's Keen Glaive
@@ -3587,17 +1844,6 @@ ID,Name
 18011000,Pest's Poison Glaive
 18011100,Pest's Blood Glaive
 18011200,Pest's Occult Glaive
-18011300,
-18011400,
-18011500,
-18011600,
-18011700,
-18011800,
-18011900,
-18012000,
-18012100,
-18012200,
-18012300,
 18020000,Lucerne
 18020100,Heavy Lucerne
 18020200,Keen Lucerne
@@ -3611,17 +1857,6 @@ ID,Name
 18021000,Poison Lucerne
 18021100,Blood Lucerne
 18021200,Occult Lucerne
-18021300,
-18021400,
-18021500,
-18021600,
-18021700,
-18021800,
-18021900,
-18022000,
-18022100,
-18022200,
-18022300,
 18030000,Banished Knight's Halberd
 18030100,Banished Knight's Heavy Halberd
 18030200,Banished Knight's Keen Halberd
@@ -3635,17 +1870,6 @@ ID,Name
 18031000,Banished Knight's Poison Halberd
 18031100,Banished Knight's Blood Halberd
 18031200,Banished Knight's Occult Halberd
-18031300,
-18031400,
-18031500,
-18031600,
-18031700,
-18031800,
-18031900,
-18032000,
-18032100,
-18032200,
-18032300,
 18040000,Commander's Standard
 18050000,Nightrider Glaive
 18050100,Heavy Nightrider Glaive
@@ -3660,17 +1884,6 @@ ID,Name
 18051000,Poison Nightrider Glaive
 18051100,Blood Nightrider Glaive
 18051200,Occult Nightrider Glaive
-18051300,
-18051400,
-18051500,
-18051600,
-18051700,
-18051800,
-18051900,
-18052000,
-18052100,
-18052200,
-18052300,
 18060000,Ripple Crescent Halberd
 18070000,Vulgar Militia Saw
 18070100,Heavy Vulgar Militia Saw
@@ -3685,17 +1898,6 @@ ID,Name
 18071000,Poison Vulgar Militia Saw
 18071100,Blood Vulgar Militia Saw
 18071200,Occult Vulgar Militia Saw
-18071300,
-18071400,
-18071500,
-18071600,
-18071700,
-18071800,
-18071900,
-18072000,
-18072100,
-18072200,
-18072300,
 18080000,Golden Halberd
 18090000,Glaive
 18090100,Heavy Glaive
@@ -3710,17 +1912,6 @@ ID,Name
 18091000,Poison Glaive
 18091100,Blood Glaive
 18091200,Occult Glaive
-18091300,
-18091400,
-18091500,
-18091600,
-18091700,
-18091800,
-18091900,
-18092000,
-18092100,
-18092200,
-18092300,
 18100000,Loretta's War Sickle
 18110000,Guardian's Swordspear
 18110100,Guardian's Heavy Swordspear
@@ -3735,41 +1926,6 @@ ID,Name
 18111000,Guardian's Poison Swordspear
 18111100,Guardian's Blood Swordspear
 18111200,Guardian's Occult Swordspear
-18111300,
-18111400,
-18111500,
-18111600,
-18111700,
-18111800,
-18111900,
-18112000,
-18112100,
-18112200,
-18112300,
-18120000,
-18120100,
-18120200,
-18120300,
-18120400,
-18120500,
-18120600,
-18120700,
-18120800,
-18120900,
-18121000,
-18121100,
-18121200,
-18121300,
-18121400,
-18121500,
-18121600,
-18121700,
-18121800,
-18121900,
-18122000,
-18122100,
-18122200,
-18122300,
 18130000,Vulgar Militia Shotel
 18130100,Heavy Vulgar Militia Shotel
 18130200,Keen Vulgar Militia Shotel
@@ -3783,17 +1939,6 @@ ID,Name
 18131000,Poison Vulgar Militia Shotel
 18131100,Blood Vulgar Militia Shotel
 18131200,Occult Vulgar Militia Shotel
-18131300,
-18131400,
-18131500,
-18131600,
-18131700,
-18131800,
-18131900,
-18132000,
-18132100,
-18132200,
-18132300,
 18140000,Dragon Halberd
 18150000,Gargoyle's Halberd
 18150100,Gargoyle's Heavy Halberd
@@ -3808,19 +1953,7 @@ ID,Name
 18151000,Gargoyle's Poison Halberd
 18151100,Gargoyle's Blood Halberd
 18151200,Gargoyle's Occult Halberd
-18151300,
-18151400,
-18151500,
-18151600,
-18151700,
-18151800,
-18151900,
-18152000,
-18152100,
-18152200,
-18152300,
 18160000,Gargoyle's Black Halberd
-18170000,
 18500000,Spirit Glaive
 18510000,Poleblade of the Bud
 19000000,Scythe
@@ -3836,17 +1969,6 @@ ID,Name
 19001000,Poison Scythe
 19001100,Blood Scythe
 19001200,Occult Scythe
-19001300,
-19001400,
-19001500,
-19001600,
-19001700,
-19001800,
-19001900,
-19002000,
-19002100,
-19002200,
-19002300,
 19010000,Grave Scythe
 19010100,Heavy Grave Scythe
 19010200,Keen Grave Scythe
@@ -3860,21 +1982,9 @@ ID,Name
 19011000,Poison Grave Scythe
 19011100,Blood Grave Scythe
 19011200,Occult Grave Scythe
-19011300,
-19011400,
-19011500,
-19011600,
-19011700,
-19011800,
-19011900,
-19012000,
-19012100,
-19012200,
-19012300,
 19020000,Halo Scythe
 19060000,Winged Scythe
 19500000,Obsidian Lamina
-19690000,
 20000000,Whip
 20000100,Heavy Whip
 20000200,Keen Whip
@@ -3888,17 +1998,6 @@ ID,Name
 20001000,Poison Whip
 20001100,Blood Whip
 20001200,Occult Whip
-20001300,
-20001400,
-20001500,
-20001600,
-20001700,
-20001800,
-20001900,
-20002000,
-20002100,
-20002200,
-20002300,
 20020000,Thorned Whip
 20020100,Heavy Thorned Whip
 20020200,Keen Thorned Whip
@@ -3912,17 +2011,6 @@ ID,Name
 20021000,Poison Thorned Whip
 20021100,Blood Thorned Whip
 20021200,Occult Thorned Whip
-20021300,
-20021400,
-20021500,
-20021600,
-20021700,
-20021800,
-20021900,
-20022000,
-20022100,
-20022200,
-20022300,
 20030000,Magma Whip Candlestick
 20050000,Hoslow's Petal Whip
 20050100,Hoslow's Heavy Petal Whip
@@ -3937,17 +2025,6 @@ ID,Name
 20051000,Hoslow's Poison Petal Whip
 20051100,Hoslow's Blood Petal Whip
 20051200,Hoslow's Occult Petal Whip
-20051300,
-20051400,
-20051500,
-20051600,
-20051700,
-20051800,
-20051900,
-20052000,
-20052100,
-20052200,
-20052300,
 20060000,Giant's Red Braid
 20070000,Urumi
 20070100,Heavy Urumi
@@ -3962,17 +2039,6 @@ ID,Name
 20071000,Poison Urumi
 20071100,Blood Urumi
 20071200,Occult Urumi
-20071300,
-20071400,
-20071500,
-20071600,
-20071700,
-20071800,
-20071900,
-20072000,
-20072100,
-20072200,
-20072300,
 20500000,Tooth Whip
 21000000,Caestus
 21000100,Heavy Caestus
@@ -3987,17 +2053,6 @@ ID,Name
 21001000,Poison Caestus
 21001100,Blood Caestus
 21001200,Occult Caestus
-21001300,
-21001400,
-21001500,
-21001600,
-21001700,
-21001800,
-21001900,
-21002000,
-21002100,
-21002200,
-21002300,
 21010000,Spiked Caestus
 21010100,Heavy Spiked Caestus
 21010200,Keen Spiked Caestus
@@ -4011,18 +2066,6 @@ ID,Name
 21011000,Poison Spiked Caestus
 21011100,Blood Spiked Caestus
 21011200,Occult Spiked Caestus
-21011300,
-21011400,
-21011500,
-21011600,
-21011700,
-21011800,
-21011900,
-21012000,
-21012100,
-21012200,
-21012300,
-21050000,
 21060000,Grafted Dragon
 21070000,Iron Ball
 21070100,Heavy Iron Ball
@@ -4037,17 +2080,6 @@ ID,Name
 21071000,Poison Iron Ball
 21071100,Blood Iron Ball
 21071200,Occult Iron Ball
-21071300,
-21071400,
-21071500,
-21071600,
-21071700,
-21071800,
-21071900,
-21072000,
-21072100,
-21072200,
-21072300,
 21080000,Star Fist
 21080100,Heavy Star Fist
 21080200,Keen Star Fist
@@ -4061,17 +2093,6 @@ ID,Name
 21081000,Poison Star Fist
 21081100,Blood Star Fist
 21081200,Occult Star Fist
-21081300,
-21081400,
-21081500,
-21081600,
-21081700,
-21081800,
-21081900,
-21082000,
-21082100,
-21082200,
-21082300,
 21100000,Katar
 21100100,Heavy Katar
 21100200,Keen Katar
@@ -4085,21 +2106,9 @@ ID,Name
 21101000,Poison Katar
 21101100,Blood Katar
 21101200,Occult Katar
-21101300,
-21101400,
-21101500,
-21101600,
-21101700,
-21101800,
-21101900,
-21102000,
-21102100,
-21102200,
-21102300,
 21110000,Clinging Bone
 21120000,Veteran's Prosthesis
 21130000,Cipher Pata
-21140000,
 21500000,Thiollier's Hidden Needle
 21510000,Pata
 21510100,Heavy Pata
@@ -4114,17 +2123,6 @@ ID,Name
 21511000,Poison Pata
 21511100,Blood Pata
 21511200,Occult Pata
-21511300,
-21511400,
-21511500,
-21511600,
-21511700,
-21511800,
-21511900,
-21512000,
-21512100,
-21512200,
-21512300,
 21520000,Poisoned Hand
 21530000,Madding Hand
 21540000,Golem Fist
@@ -4140,21 +2138,7 @@ ID,Name
 21541000,Poison Golem Fist
 21541100,Blood Golem Fist
 21541200,Occult Golem Fist
-21541300,
-21541400,
-21541500,
-21541600,
-21541700,
-21541800,
-21541900,
-21542000,
-21542100,
-21542200,
-21542300,
 21550000,Shield of Night
-21670000,
-21680000,
-21690000,
 22000000,Hookclaws
 22000100,Heavy Hookclaws
 22000200,Keen Hookclaws
@@ -4168,17 +2152,6 @@ ID,Name
 22001000,Poison Hookclaws
 22001100,Blood Hookclaws
 22001200,Occult Hookclaws
-22001300,
-22001400,
-22001500,
-22001600,
-22001700,
-22001800,
-22001900,
-22002000,
-22002100,
-22002200,
-22002300,
 22010000,Venomous Fang
 22010100,Heavy Venomous Fang
 22010200,Keen Venomous Fang
@@ -4192,17 +2165,6 @@ ID,Name
 22011000,Poison Venomous Fang
 22011100,Blood Venomous Fang
 22011200,Occult Venomous Fang
-22011300,
-22011400,
-22011500,
-22011600,
-22011700,
-22011800,
-22011900,
-22012000,
-22012100,
-22012200,
-22012300,
 22020000,Bloodhound Claws
 22030000,Raptor Talons
 22030100,Heavy Raptor Talons
@@ -4217,43 +2179,7 @@ ID,Name
 22031000,Poison Raptor Talons
 22031100,Blood Raptor Talons
 22031200,Occult Raptor Talons
-22031300,
-22031400,
-22031500,
-22031600,
-22031700,
-22031800,
-22031900,
-22032000,
-22032100,
-22032200,
-22032300,
-22040000,
-22040100,
-22040200,
-22040300,
-22040400,
-22040500,
-22040600,
-22040700,
-22040800,
-22040900,
-22041000,
-22041100,
-22041200,
-22041300,
-22041400,
-22041500,
-22041600,
-22041700,
-22041800,
-22041900,
-22042000,
-22042100,
-22042200,
-22042300,
 22500000,Claws of Night
-22690000,
 23000000,Prelate's Inferno Crozier
 23000100,Prelate's Heavy Inferno Crozier
 23000200,Prelate's Keen Inferno Crozier
@@ -4267,17 +2193,6 @@ ID,Name
 23001000,Prelate's Poison Inferno Crozier
 23001100,Prelate's Blood Inferno Crozier
 23001200,Prelate's Occult Inferno Crozier
-23001300,
-23001400,
-23001500,
-23001600,
-23001700,
-23001800,
-23001900,
-23002000,
-23002100,
-23002200,
-23002300,
 23010000,Watchdog's Staff
 23020000,Great Club
 23020100,Heavy Great Club
@@ -4292,17 +2207,6 @@ ID,Name
 23021000,Poison Great Club
 23021100,Blood Great Club
 23021200,Occult Great Club
-23021300,
-23021400,
-23021500,
-23021600,
-23021700,
-23021800,
-23021900,
-23022000,
-23022100,
-23022200,
-23022300,
 23030000,Envoy's Greathorn
 23040000,Duelist Greataxe
 23040100,Heavy Duelist Greataxe
@@ -4317,22 +2221,10 @@ ID,Name
 23041000,Poison Duelist Greataxe
 23041100,Blood Duelist Greataxe
 23041200,Occult Duelist Greataxe
-23041300,
-23041400,
-23041500,
-23041600,
-23041700,
-23041800,
-23041900,
-23042000,
-23042100,
-23042200,
-23042300,
 23050000,Axe of Godfrey
 23060000,Dragon Greatclaw
 23070000,Staff of the Avatar
 23080000,Fallingstar Beast Jaw
-23090000,
 23100000,Ghiza's Wheel
 23110000,Giant-Crusher
 23110100,Heavy Giant-Crusher
@@ -4347,17 +2239,6 @@ ID,Name
 23111000,Poison Giant-Crusher
 23111100,Blood Giant-Crusher
 23111200,Occult Giant-Crusher
-23111300,
-23111400,
-23111500,
-23111600,
-23111700,
-23111800,
-23111900,
-23112000,
-23112100,
-23112200,
-23112300,
 23120000,Golem's Halberd
 23120100,Golem's Heavy Halberd
 23120200,Golem's Keen Halberd
@@ -4371,17 +2252,6 @@ ID,Name
 23121000,Golem's Poison Halberd
 23121100,Golem's Blood Halberd
 23121200,Golem's Occult Halberd
-23121300,
-23121400,
-23121500,
-23121600,
-23121700,
-23121800,
-23121900,
-23122000,
-23122100,
-23122200,
-23122300,
 23130000,Troll's Hammer
 23140000,Rotten Staff
 23150000,Rotten Greataxe
@@ -4397,24 +2267,9 @@ ID,Name
 23151000,Poison Rotten Greataxe
 23151100,Blood Rotten Greataxe
 23151200,Occult Rotten Greataxe
-23151300,
-23151400,
-23151500,
-23151600,
-23151700,
-23151800,
-23151900,
-23152000,
-23152100,
-23152200,
-23152300,
 23500000,Devonia's Hammer
 23510000,Shadow Sunflower Blossom
 23520000,Gazing Finger
-23900000,
-23910000,
-23920000,
-23930000,
 24000000,Torch
 24020000,Steel-Wire Torch
 24040000,St. Trina's Torch
@@ -4423,7 +2278,6 @@ ID,Name
 24070000,Sentry's Torch
 24500000,Nanaya's Torch
 24510000,Lamenting Visage
-24590000,
 30000000,Buckler
 30000100,Heavy Buckler
 30000200,Keen Buckler
@@ -4437,17 +2291,6 @@ ID,Name
 30001000,Poison Buckler
 30001100,Bloody Buckler
 30001200,Occult Buckler
-30001300,
-30001400,
-30001500,
-30001600,
-30001700,
-30001800,
-30001900,
-30002000,
-30002100,
-30002200,
-30002300,
 30010000,Perfumer's Shield
 30010100,Perfumer's Heavy Shield
 30010200,Perfumer's Keen Shield
@@ -4461,17 +2304,6 @@ ID,Name
 30011000,Perfumer's Poison Shield
 30011100,Perfumer's Blood Shield
 30011200,Perfumer's Occult Shield
-30011300,
-30011400,
-30011500,
-30011600,
-30011700,
-30011800,
-30011900,
-30012000,
-30012100,
-30012200,
-30012300,
 30020000,Man-Serpent's Shield
 30020100,Man-serpent's Heavy Shield
 30020200,Man-serpent's Keen Shield
@@ -4485,17 +2317,6 @@ ID,Name
 30021000,Man-serpent's Poison Shield
 30021100,Man-serpent's Blood Shield
 30021200,Man-serpent's Occult Shield
-30021300,
-30021400,
-30021500,
-30021600,
-30021700,
-30021800,
-30021900,
-30022000,
-30022100,
-30022200,
-30022300,
 30030000,Rickety Shield
 30030100,Heavy Rickety Shield
 30030200,Keen Rickety Shield
@@ -4509,17 +2330,6 @@ ID,Name
 30031000,Poison Rickety Shield
 30031100,Bloody Rickety Shield
 30031200,Occult Rickety Shield
-30031300,
-30031400,
-30031500,
-30031600,
-30031700,
-30031800,
-30031900,
-30032000,
-30032100,
-30032200,
-30032300,
 30040000,Pillory Shield
 30040100,Heavy Pillory Shield
 30040200,Keen Pillory Shield
@@ -4533,17 +2343,6 @@ ID,Name
 30041000,Poison Pillory Shield
 30041100,Blood Pillory Shield
 30041200,Occult Pillory Shield
-30041300,
-30041400,
-30041500,
-30041600,
-30041700,
-30041800,
-30041900,
-30042000,
-30042100,
-30042200,
-30042300,
 30060000,Beastman's Jar-Shield
 30060100,Beastman's Heavy Jar-Shield
 30060200,Beastman's Keen Jar-Shield
@@ -4557,17 +2356,6 @@ ID,Name
 30061000,Beastman's Poison Jar-Shield
 30061100,Beastman's Blood Jar-Shield
 30061200,Beastman's Occult Jar-Shield
-30061300,
-30061400,
-30061500,
-30061600,
-30061700,
-30061800,
-30061900,
-30062000,
-30062100,
-30062200,
-30062300,
 30070000,Red Thorn Roundshield
 30070100,Heavy Red Thorn Roundshield
 30070200,Keen Red Thorn Roundshield
@@ -4581,17 +2369,6 @@ ID,Name
 30071000,Poison Red Thorn Roundshield
 30071100,Bloody Red Thorn Roundshield
 30071200,Occult Red Thorn Roundshield
-30071300,
-30071400,
-30071500,
-30071600,
-30071700,
-30071800,
-30071900,
-30072000,
-30072100,
-30072200,
-30072300,
 30080000,Scripture Wooden Shield
 30080100,Heavy Scripture Wooden Shield
 30080200,Keen Scripture Wooden Shield
@@ -4605,17 +2382,6 @@ ID,Name
 30081000,Poison Scripture Wooden Shield
 30081100,Blood Scripture Wooden Shield
 30081200,Occult Scripture Wooden Shield
-30081300,
-30081400,
-30081500,
-30081600,
-30081700,
-30081800,
-30081900,
-30082000,
-30082100,
-30082200,
-30082300,
 30090000,Riveted Wooden Shield
 30090100,Heavy Riveted Wooden Shield
 30090200,Keen Riveted Wooden Shield
@@ -4629,17 +2395,6 @@ ID,Name
 30091000,Poison Riveted Wooden Shield
 30091100,Blood Riveted Wooden Shield
 30091200,Occult Riveted Wooden Shield
-30091300,
-30091400,
-30091500,
-30091600,
-30091700,
-30091800,
-30091900,
-30092000,
-30092100,
-30092200,
-30092300,
 30100000,Blue-White Wooden Shield
 30100100,Heavy Blue-White Wooden Shield
 30100200,Keen Blue-White Wooden Shield
@@ -4653,17 +2408,6 @@ ID,Name
 30101000,Poison Blue-White Wooden Shield
 30101100,Blood Blue-White Wooden Shield
 30101200,Occult Blue-White Wooden Shield
-30101300,
-30101400,
-30101500,
-30101600,
-30101700,
-30101800,
-30101900,
-30102000,
-30102100,
-30102200,
-30102300,
 30110000,Rift Shield
 30110100,Heavy Rift Shield
 30110200,Keen Rift Shield
@@ -4677,17 +2421,6 @@ ID,Name
 30111000,Poison Rift Shield
 30111100,Blood Rift Shield
 30111200,Occult Rift Shield
-30111300,
-30111400,
-30111500,
-30111600,
-30111700,
-30111800,
-30111900,
-30112000,
-30112100,
-30112200,
-30112300,
 30120000,Iron Roundshield
 30120100,Heavy Iron Roundshield
 30120200,Keen Iron Roundshield
@@ -4701,17 +2434,6 @@ ID,Name
 30121000,Poison Iron Roundshield
 30121100,Bloody Iron Roundshield
 30121200,Occult Iron Roundshield
-30121300,
-30121400,
-30121500,
-30121600,
-30121700,
-30121800,
-30121900,
-30122000,
-30122100,
-30122200,
-30122300,
 30130000,Gilded Iron Shield
 30130100,Gilded Heavy Iron Shield
 30130200,Gilded Keen Iron Shield
@@ -4725,17 +2447,6 @@ ID,Name
 30131000,Gilded Poison Iron Shield
 30131100,Gilded Blood Iron Shield
 30131200,Gilded Occult Iron Shield
-30131300,
-30131400,
-30131500,
-30131600,
-30131700,
-30131800,
-30131900,
-30132000,
-30132100,
-30132200,
-30132300,
 30140000,Ice Crest Shield
 30140100,Heavy Ice Crest Shield
 30140200,Keen Ice Crest Shield
@@ -4749,17 +2460,6 @@ ID,Name
 30141000,Poison Ice Crest Shield
 30141100,Blood Ice Crest Shield
 30141200,Occult Ice Crest Shield
-30141300,
-30141400,
-30141500,
-30141600,
-30141700,
-30141800,
-30141900,
-30142000,
-30142100,
-30142200,
-30142300,
 30150000,Smoldering Shield
 30190000,Spiralhorn Shield
 30190100,Heavy Spiralhorn Shield
@@ -4774,17 +2474,6 @@ ID,Name
 30191000,Poison Spiralhorn Shield
 30191100,Blood Spiralhorn Shield
 30191200,Occult Spiralhorn Shield
-30191300,
-30191400,
-30191500,
-30191600,
-30191700,
-30191800,
-30191900,
-30192000,
-30192100,
-30192200,
-30192300,
 30200000,Coil Shield
 30510000,Smithscript Shield
 31000000,Kite Shield
@@ -4800,17 +2489,6 @@ ID,Name
 31001000,Poison Kite Shield
 31001100,Blood Kite Shield
 31001200,Occult Kite Shield
-31001300,
-31001400,
-31001500,
-31001600,
-31001700,
-31001800,
-31001900,
-31002000,
-31002100,
-31002200,
-31002300,
 31010000,Marred Leather Shield
 31010100,Marred Heavy Leather Shield
 31010200,Marred Keen Leather Shield
@@ -4824,17 +2502,6 @@ ID,Name
 31011000,Marred Poison Leather Shield
 31011100,Marred Blood Leather Shield
 31011200,Marred Occult Leather Shield
-31011300,
-31011400,
-31011500,
-31011600,
-31011700,
-31011800,
-31011900,
-31012000,
-31012100,
-31012200,
-31012300,
 31020000,Marred Wooden Shield
 31020100,Marred Heavy Wooden Shield
 31020200,Marred Keen Wooden Shield
@@ -4848,17 +2515,6 @@ ID,Name
 31021000,Marred Poison Wooden Shield
 31021100,Marred Blood Wooden Shield
 31021200,Marred Occult Wooden Shield
-31021300,
-31021400,
-31021500,
-31021600,
-31021700,
-31021800,
-31021900,
-31022000,
-31022100,
-31022200,
-31022300,
 31030000,Banished Knight's Shield
 31030100,Banished Knight's Heavy Shield
 31030200,Banished Knight's Keen Shield
@@ -4872,17 +2528,6 @@ ID,Name
 31031000,Banished Knight's Poison Shield
 31031100,Banished Knight's Blood Shield
 31031200,Banished Knight's Occult Shield
-31031300,
-31031400,
-31031500,
-31031600,
-31031700,
-31031800,
-31031900,
-31032000,
-31032100,
-31032200,
-31032300,
 31040000,Albinauric Shield
 31040100,Heavy Albinauric Shield
 31040200,Keen Albinauric Shield
@@ -4896,17 +2541,6 @@ ID,Name
 31041000,Poison Albinauric Shield
 31041100,Blood Albinauric Shield
 31041200,Occult Albinauric Shield
-31041300,
-31041400,
-31041500,
-31041600,
-31041700,
-31041800,
-31041900,
-31042000,
-31042100,
-31042200,
-31042300,
 31050000,Sun Realm Shield
 31050100,Heavy Sun Realm Shield
 31050200,Keen Sun Realm Shield
@@ -4920,17 +2554,6 @@ ID,Name
 31051000,Poison Sun Realm Shield
 31051100,Blood Sun Realm Shield
 31051200,Occult Sun Realm Shield
-31051300,
-31051400,
-31051500,
-31051600,
-31051700,
-31051800,
-31051900,
-31052000,
-31052100,
-31052200,
-31052300,
 31060000,Silver Mirrorshield
 31070000,Round Shield
 31070100,Heavy Round Shield
@@ -4945,17 +2568,6 @@ ID,Name
 31071000,Poison Round Shield
 31071100,Blood Round Shield
 31071200,Occult Round Shield
-31071300,
-31071400,
-31071500,
-31071600,
-31071700,
-31071800,
-31071900,
-31072000,
-31072100,
-31072200,
-31072300,
 31080000,Scorpion Kite Shield
 31080100,Heavy Scorpion Kite Shield
 31080200,Keen Scorpion Kite Shield
@@ -4969,17 +2581,6 @@ ID,Name
 31081000,Poison Scorpion Kite Shield
 31081100,Blood Scorpion Kite Shield
 31081200,Occult Scorpion Kite Shield
-31081300,
-31081400,
-31081500,
-31081600,
-31081700,
-31081800,
-31081900,
-31082000,
-31082100,
-31082200,
-31082300,
 31090000,Twinbird Kite Shield
 31090100,Heavy Twinbird Kite Shield
 31090200,Keen Twinbird Kite Shield
@@ -4993,17 +2594,6 @@ ID,Name
 31091000,Poison Twinbird Kite Shield
 31091100,Blood Twinbird Kite Shield
 31091200,Occult Twinbird Kite Shield
-31091300,
-31091400,
-31091500,
-31091600,
-31091700,
-31091800,
-31091900,
-31092000,
-31092100,
-31092200,
-31092300,
 31100000,Blue-Gold Kite Shield
 31100100,Heavy Blue-Gold Kite Shield
 31100200,Keen Blue-Gold Kite Shield
@@ -5017,17 +2607,6 @@ ID,Name
 31101000,Poison Blue-Gold Kite Shield
 31101100,Blood Blue-Gold Kite Shield
 31101200,Occult Blue-Gold Kite Shield
-31101300,
-31101400,
-31101500,
-31101600,
-31101700,
-31101800,
-31101900,
-31102000,
-31102100,
-31102200,
-31102300,
 31130000,Brass Shield
 31130100,Heavy Brass Shield
 31130200,Keen Brass Shield
@@ -5041,17 +2620,6 @@ ID,Name
 31131000,Poison Brass Shield
 31131100,Blood Brass Shield
 31131200,Occult Brass Shield
-31131300,
-31131400,
-31131500,
-31131600,
-31131700,
-31131800,
-31131900,
-31132000,
-31132100,
-31132200,
-31132300,
 31140000,Great Turtle Shell
 31140100,Heavy Great Turtle Shell
 31140200,Keen Great Turtle Shell
@@ -5065,17 +2633,6 @@ ID,Name
 31141000,Poison Great Turtle Shell
 31141100,Blood Great Turtle Shell
 31141200,Occult Great Turtle Shell
-31141300,
-31141400,
-31141500,
-31141600,
-31141700,
-31141800,
-31141900,
-31142000,
-31142100,
-31142200,
-31142300,
 31170000,Shield of the Guilty
 31170100,Heavy Shield of the Guilty
 31170200,Keen Shield of the Guilty
@@ -5089,17 +2646,6 @@ ID,Name
 31171000,Poison Shield of the Guilty
 31171100,Blood Shield of the Guilty
 31171200,Occult Shield of the Guilty
-31171300,
-31171400,
-31171500,
-31171600,
-31171700,
-31171800,
-31171900,
-31172000,
-31172100,
-31172200,
-31172300,
 31190000,Carian Knight's Shield
 31230000,Large Leather Shield
 31230100,Heavy Large Leather Shield
@@ -5114,17 +2660,6 @@ ID,Name
 31231000,Poison Large Leather Shield
 31231100,Bloody Large Leather Shield
 31231200,Occult Large Leather Shield
-31231300,
-31231400,
-31231500,
-31231600,
-31231700,
-31231800,
-31231900,
-31232000,
-31232100,
-31232200,
-31232300,
 31240000,Horse Crest Wooden Shield
 31240100,Heavy Horse Crest Wooden Shield
 31240200,Keen Horse Crest Wooden Shield
@@ -5138,17 +2673,6 @@ ID,Name
 31241000,Poison Horse Crest Wooden Shield
 31241100,Blood Horse Crest Wooden Shield
 31241200,Occult Horse Crest Wooden Shield
-31241300,
-31241400,
-31241500,
-31241600,
-31241700,
-31241800,
-31241900,
-31242000,
-31242100,
-31242200,
-31242300,
 31250000,Candletree Wooden Shield
 31250100,Heavy Candletree Wooden Shield
 31250200,Keen Candletree Wooden Shield
@@ -5162,17 +2686,6 @@ ID,Name
 31251000,Poison Candletree Wooden Shield
 31251100,Blood Candletree Wooden Shield
 31251200,Occult Candletree Wooden Shield
-31251300,
-31251400,
-31251500,
-31251600,
-31251700,
-31251800,
-31251900,
-31252000,
-31252100,
-31252200,
-31252300,
 31260000,Flame Crest Wooden Shield
 31260100,Heavy Flame Crest Wooden Shield
 31260200,Keen Flame Crest Wooden Shield
@@ -5186,17 +2699,6 @@ ID,Name
 31261000,Poison Flame Crest Wooden Shield
 31261100,Blood Flame Crest Wooden Shield
 31261200,Occult Flame Crest Wooden Shield
-31261300,
-31261400,
-31261500,
-31261600,
-31261700,
-31261800,
-31261900,
-31262000,
-31262100,
-31262200,
-31262300,
 31270000,Hawk Crest Wooden Shield
 31270100,Heavy Hawk Crest Wooden Shield
 31270200,Keen Hawk Crest Wooden Shield
@@ -5210,17 +2712,6 @@ ID,Name
 31271000,Poison Hawk Crest Wooden Shield
 31271100,Blood Hawk Crest Wooden Shield
 31271200,Occult Hawk Crest Wooden Shield
-31271300,
-31271400,
-31271500,
-31271600,
-31271700,
-31271800,
-31271900,
-31272000,
-31272100,
-31272200,
-31272300,
 31280000,Beast Crest Heater Shield
 31280100,Heavy Beast Crest Heater Shield
 31280200,Keen Beast Crest Heater Shield
@@ -5234,17 +2725,6 @@ ID,Name
 31281000,Poison Beast Crest Heater Shield
 31281100,Blood Beast Crest Heater Shield
 31281200,Occult Beast Crest Heater Shield
-31281300,
-31281400,
-31281500,
-31281600,
-31281700,
-31281800,
-31281900,
-31282000,
-31282100,
-31282200,
-31282300,
 31290000,Red Crest Heater Shield
 31290100,Heavy Red Crest Heater Shield
 31290200,Keen Red Crest Heater Shield
@@ -5258,17 +2738,6 @@ ID,Name
 31291000,Poison Red Crest Heater Shield
 31291100,Blood Red Crest Heater Shield
 31291200,Occult Red Crest Heater Shield
-31291300,
-31291400,
-31291500,
-31291600,
-31291700,
-31291800,
-31291900,
-31292000,
-31292100,
-31292200,
-31292300,
 31300000,Blue Crest Heater Shield
 31300100,Heavy Blue Crest Heater Shield
 31300200,Keen Blue Crest Heater Shield
@@ -5282,17 +2751,6 @@ ID,Name
 31301000,Poison Blue Crest Heater Shield
 31301100,Blood Blue Crest Heater Shield
 31301200,Occult Blue Crest Heater Shield
-31301300,
-31301400,
-31301500,
-31301600,
-31301700,
-31301800,
-31301900,
-31302000,
-31302100,
-31302200,
-31302300,
 31310000,Eclipse Crest Heater Shield
 31310100,Heavy Eclipse Crest Heater Shield
 31310200,Keen Eclipse Crest Heater Shield
@@ -5306,17 +2764,6 @@ ID,Name
 31311000,Poison Eclipse Crest Heater Shield
 31311100,Blood Eclipse Crest Heater Shield
 31311200,Occult Eclipse Crest Heater Shield
-31311300,
-31311400,
-31311500,
-31311600,
-31311700,
-31311800,
-31311900,
-31312000,
-31312100,
-31312200,
-31312300,
 31320000,Inverted Hawk Heater Shield
 31320100,Heavy Inverted Hawk Heater Shield
 31320200,Keen Inverted Hawk Heater Shield
@@ -5330,17 +2777,6 @@ ID,Name
 31321000,Poison Inverted Hawk Heater Shield
 31321100,Blood Inverted Hawk Heater Shield
 31321200,Occult Inverted Hawk Heater Shield
-31321300,
-31321400,
-31321500,
-31321600,
-31321700,
-31321800,
-31321900,
-31322000,
-31322100,
-31322200,
-31322300,
 31330000,Heater Shield
 31330100,Heavy Heater Shield
 31330200,Keen Heater Shield
@@ -5354,17 +2790,6 @@ ID,Name
 31331000,Poison Heater Shield
 31331100,Blood Heater Shield
 31331200,Occult Heater Shield
-31331300,
-31331400,
-31331500,
-31331600,
-31331700,
-31331800,
-31331900,
-31332000,
-31332100,
-31332200,
-31332300,
 31340000,Black Leather Shield
 31340100,Heavy Black Leather Shield
 31340200,Keen Black Leather Shield
@@ -5378,17 +2803,6 @@ ID,Name
 31341000,Poison Black Leather Shield
 31341100,Blood Black Leather Shield
 31341200,Occult Black Leather Shield
-31341300,
-31341400,
-31341500,
-31341600,
-31341700,
-31341800,
-31341900,
-31342000,
-31342100,
-31342200,
-31342300,
 31500000,Messmer Soldier Shield
 31500100,Heavy Messmer Soldier Shield
 31500200,Keen Messmer Soldier Shield
@@ -5429,7 +2843,6 @@ ID,Name
 31521100,Blood Serpent Crest Shield
 31521200,Occult Serpent Crest Shield
 31530000,Golden Lion Shield
-31690000,
 32000000,Dragon Towershield
 32000100,Heavy Dragon Towershield
 32000200,Keen Dragon Towershield
@@ -5443,17 +2856,6 @@ ID,Name
 32001000,Poison Dragon Towershield
 32001100,Blood Dragon Towershield
 32001200,Occult Dragon Towershield
-32001300,
-32001400,
-32001500,
-32001600,
-32001700,
-32001800,
-32001900,
-32002000,
-32002100,
-32002200,
-32002300,
 32020000,Distinguished Greatshield
 32020100,Distinguished Heavy Greatshield
 32020200,Distinguished Keen Greatshield
@@ -5467,17 +2869,6 @@ ID,Name
 32021000,Distinguished Poison Greatshield
 32021100,Distinguished Blood Greatshield
 32021200,Distinguished Occult Greatshield
-32021300,
-32021400,
-32021500,
-32021600,
-32021700,
-32021800,
-32021900,
-32022000,
-32022100,
-32022200,
-32022300,
 32030000,Crucible Hornshield
 32040000,Dragonclaw Shield
 32050000,Briar Greatshield
@@ -5493,17 +2884,6 @@ ID,Name
 32051000,Poison Briar Greatshield
 32051100,Blood Briar Greatshield
 32051200,Occult Briar Greatshield
-32051300,
-32051400,
-32051500,
-32051600,
-32051700,
-32051800,
-32051900,
-32052000,
-32052100,
-32052200,
-32052300,
 32080000,Erdtree Greatshield
 32090000,Golden Beast Crest Shield
 32090100,Heavy Golden Beast Crest Shield
@@ -5518,17 +2898,6 @@ ID,Name
 32091000,Poison Golden Beast Crest Shield
 32091100,Blood Golden Beast Crest Shield
 32091200,Occult Golden Beast Crest Shield
-32091300,
-32091400,
-32091500,
-32091600,
-32091700,
-32091800,
-32091900,
-32092000,
-32092100,
-32092200,
-32092300,
 32120000,Jellyfish Shield
 32130000,Fingerprint Stone Shield
 32130100,Heavy Fingerprint Stone Shield
@@ -5543,17 +2912,6 @@ ID,Name
 32131000,Poison Fingerprint Stone Shield
 32131100,Blood Fingerprint Stone Shield
 32131200,Occult Fingerprint Stone Shield
-32131300,
-32131400,
-32131500,
-32131600,
-32131700,
-32131800,
-32131900,
-32132000,
-32132100,
-32132200,
-32132300,
 32140000,Icon Shield
 32150000,One-Eyed Shield
 32160000,Visage Shield
@@ -5570,17 +2928,6 @@ ID,Name
 32171000,Poison Spiked Palisade Shield
 32171100,Blood Spiked Palisade Shield
 32171200,Occult Spiked Palisade Shield
-32171300,
-32171400,
-32171500,
-32171600,
-32171700,
-32171800,
-32171900,
-32172000,
-32172100,
-32172200,
-32172300,
 32190000,Manor Towershield
 32190100,Heavy Manor Towershield
 32190200,Keen Manor Towershield
@@ -5594,17 +2941,6 @@ ID,Name
 32191000,Poison Manor Towershield
 32191100,Blood Manor Towershield
 32191200,Occult Manor Towershield
-32191300,
-32191400,
-32191500,
-32191600,
-32191700,
-32191800,
-32191900,
-32192000,
-32192100,
-32192200,
-32192300,
 32200000,Crossed-Tree Towershield
 32200100,Heavy Crossed-Tree Towershield
 32200200,Keen Crossed-Tree Towershield
@@ -5618,17 +2954,6 @@ ID,Name
 32201000,Poison Crossed-Tree Towershield
 32201100,Blood Crossed-Tree Towershield
 32201200,Occult Crossed-Tree Towershield
-32201300,
-32201400,
-32201500,
-32201600,
-32201700,
-32201800,
-32201900,
-32202000,
-32202100,
-32202200,
-32202300,
 32210000,Inverted Hawk Towershield
 32210100,Heavy Inverted Hawk Towershield
 32210200,Keen Inverted Hawk Towershield
@@ -5642,17 +2967,6 @@ ID,Name
 32211000,Poison Inverted Hawk Towershield
 32211100,Blood Inverted Hawk Towershield
 32211200,Occult Inverted Hawk Towershield
-32211300,
-32211400,
-32211500,
-32211600,
-32211700,
-32211800,
-32211900,
-32212000,
-32212100,
-32212200,
-32212300,
 32220000,Ant's Skull Plate
 32230000,Redmane Greatshield
 32230100,Heavy Redmane Greatshield
@@ -5667,17 +2981,6 @@ ID,Name
 32231000,Poison Redmane Greatshield
 32231100,Blood Redmane Greatshield
 32231200,Occult Redmane Greatshield
-32231300,
-32231400,
-32231500,
-32231600,
-32231700,
-32231800,
-32231900,
-32232000,
-32232100,
-32232200,
-32232300,
 32240000,Eclipse Crest Greatshield
 32240100,Heavy Eclipse Crest Greatshield
 32240200,Keen Eclipse Crest Greatshield
@@ -5691,17 +2994,6 @@ ID,Name
 32241000,Poison Eclipse Crest Greatshield
 32241100,Blood Eclipse Crest Greatshield
 32241200,Occult Eclipse Crest Greatshield
-32241300,
-32241400,
-32241500,
-32241600,
-32241700,
-32241800,
-32241900,
-32242000,
-32242100,
-32242200,
-32242300,
 32250000,Cuckoo Greatshield
 32250100,Heavy Cuckoo Greatshield
 32250200,Keen Cuckoo Greatshield
@@ -5715,17 +3007,6 @@ ID,Name
 32251000,Poison Cuckoo Greatshield
 32251100,Blood Cuckoo Greatshield
 32251200,Occult Cuckoo Greatshield
-32251300,
-32251400,
-32251500,
-32251600,
-32251700,
-32251800,
-32251900,
-32252000,
-32252100,
-32252200,
-32252300,
 32260000,Golden Greatshield
 32260100,Heavy Golden Greatshield
 32260200,Keen Golden Greatshield
@@ -5739,17 +3020,6 @@ ID,Name
 32261000,Poison Golden Greatshield
 32261100,Blood Golden Greatshield
 32261200,Occult Golden Greatshield
-32261300,
-32261400,
-32261500,
-32261600,
-32261700,
-32261800,
-32261900,
-32262000,
-32262100,
-32262200,
-32262300,
 32270000,Gilded Greatshield
 32270100,Heavy Gilded Greatshield
 32270200,Keen Gilded Greatshield
@@ -5763,17 +3033,6 @@ ID,Name
 32271000,Poison Gilded Greatshield
 32271100,Blood Gilded Greatshield
 32271200,Occult Gilded Greatshield
-32271300,
-32271400,
-32271500,
-32271600,
-32271700,
-32271800,
-32271900,
-32272000,
-32272100,
-32272200,
-32272300,
 32280000,Haligtree Crest Greatshield
 32280100,Heavy Haligtree Crest Greatshield
 32280200,Keen Haligtree Crest Greatshield
@@ -5787,17 +3046,6 @@ ID,Name
 32281000,Poison Haligtree Crest Greatshield
 32281100,Blood Haligtree Crest Greatshield
 32281200,Occult Haligtree Crest Greatshield
-32281300,
-32281400,
-32281500,
-32281600,
-32281700,
-32281800,
-32281900,
-32282000,
-32282100,
-32282200,
-32282300,
 32290000,Wooden Greatshield
 32290100,Heavy Wooden Greatshield
 32290200,Keen Wooden Greatshield
@@ -5811,17 +3059,6 @@ ID,Name
 32291000,Poison Wooden Greatshield
 32291100,Blood Wooden Greatshield
 32291200,Occult Wooden Greatshield
-32291300,
-32291400,
-32291500,
-32291600,
-32291700,
-32291800,
-32291900,
-32292000,
-32292100,
-32292200,
-32292300,
 32300000,Lordsworn's Shield
 32300100,Heavy Lordsworn's Shield
 32300200,Keen Lordsworn's Shield
@@ -5835,17 +3072,6 @@ ID,Name
 32301000,Poison Lordsworn's Shield
 32301100,Blood Lordsworn's Shield
 32301200,Occult Lordsworn's Shield
-32301300,
-32301400,
-32301500,
-32301600,
-32301700,
-32301800,
-32301900,
-32302000,
-32302100,
-32302200,
-32302300,
 32500000,Black Steel Greatshield
 32500100,Heavy Black Steel Greatshield
 32500200,Keen Black Steel Greatshield
@@ -5860,10 +3086,6 @@ ID,Name
 32501100,Blood Black Steel Greatshield
 32501200,Occult Black Steel Greatshield
 32520000,Verdigris Greatshield
-32690000,
-32900000,
-32910000,
-32920000,
 33000000,Glintstone Staff
 33040000,Crystal Staff
 33050000,Gelmir Glintstone Staff
@@ -5882,20 +3104,8 @@ ID,Name
 33260000,Staff of the Guilty
 33270000,Rotten Crystal Staff
 33280000,Staff of Loss
-33290000,
-33300000,
 33510000,Staff of the Great Beyond
 33520000,Maternal Staff
-33690000,
-33900000,
-33910000,
-33920000,
-33930000,
-33940000,
-33950000,
-33960000,
-33970000,
-33980000,
 34000000,Finger Seal
 34010000,Godslayer's Seal
 34020000,Giant's Seal
@@ -5908,25 +3118,6 @@ ID,Name
 34500000,Dryleaf Seal
 34510000,Fire Knight's Seal
 34520000,Spiraltree Seal
-34610000,
-34620000,
-34630000,
-34640000,
-34650000,
-34660000,
-34670000,
-34680000,
-34690000,
-34900000,
-34910000,
-34920000,
-34930000,
-34940000,
-34950000,
-34960000,
-34970000,
-34980000,
-34990000,
 40000000,Shortbow
 40010000,Misbegotten Shortbow
 40020000,Red Branch Shortbow
@@ -5941,13 +3132,11 @@ ID,Name
 41060000,Pulley Bow
 41070000,Black Bow
 41510000,Ansbach's Longbow
-41690000,
 42000000,Lion Greatbow
 42010000,Golem Greatbow
 42030000,Erdtree Greatbow
 42040000,Greatbow
 42500000,Igon's Greatbow
-42690000,
 43000000,Soldier's Crossbow
 43020000,Light Crossbow
 43030000,Heavy Crossbow
@@ -5957,28 +3146,18 @@ ID,Name
 43110000,Crepus's Black-Key Crossbow
 43500000,Repeating Crossbow
 43510000,Spread Crossbow
-43690000,
-43900000,
 44000000,Hand Ballista
 44010000,Jar Cannon
 44500000,Rabbath's Cannon
-47000000,
-47010000,
 50000000,Arrow
 50010000,Fire Arrow
 50020000,Serpent Arrow
-50030000,
 50040000,St. Trina's Arrow
-50060000,
-50080000,
 50090000,Golden Arrow
 50100000,Dwelling Arrow
 50110000,Bone Arrow
-50130000,
 50140000,Firebone Arrow
-50150000,
 50160000,Poisonbone Arrow
-50170000,
 50180000,Sleepbone Arrow
 50190000,Stormwing Bone Arrow
 50200000,Lightning Arrow
@@ -5986,24 +3165,19 @@ ID,Name
 50220000,Rainbow Stone Arrow
 50230000,Shattershard Arrow
 50240000,Spiritflame Arrow
-50260000,
 50270000,Magicbone Arrow
-50280000,
 50290000,Haligbone Arrow
-50300000,
 50310000,Bloodbone Arrow
 50320000,Blightbone Arrow
 50330000,Coldbone Arrow
 50340000,Frenzybone Arrow
 50350000,Rotbone Arrow
-50540000,
 50550000,Piquebone Arrow
 51000000,Great Arrow
 51010000,Golem's Great Arrow
 51020000,Golden Great Arrow
 51030000,Golem's Magic Arrow
 51040000,Radahn's Spear
-51050000,
 51060000,Bone Great Arrow
 51500000,Igon's Harpoon
 52000000,Bolt
@@ -6026,12 +3200,7 @@ ID,Name
 52170000,Rotbone Bolt
 52180000,Sleepbone Bolt
 52190000,Flaming Bolt
-52200000,Blightbone Bolt
-52210000,Frenzybone Bolt
 52520000,Piquebone Bolt
-52690000,
-52900000,
-52910000,
 53000000,Ballista Bolt
 53010000,Lightning Greatbolt
 53020000,Explosive Greatbolt
@@ -6050,17 +3219,6 @@ ID,Name
 60501000,Poison Dryleaf Arts
 60501100,Blood Dryleaf Arts
 60501200,Occult Dryleaf Arts
-60501300,
-60501400,
-60501500,
-60501600,
-60501700,
-60501800,
-60501900,
-60502000,
-60502100,
-60502200,
-60502300,
 60510000,Dane's Footwork
 60510100,Dane's Heavy Footwork
 60510200,Dane's Keen Footwork
@@ -6074,25 +3232,11 @@ ID,Name
 60511000,Dane's Poison Footwork
 60511100,Dane's Blood Footwork
 60511200,Dane's Occult Footwork
-60511300,
-60511400,
-60511500,
-60511600,
-60511700,
-60511800,
-60511900,
-60512000,
-60512100,
-60512200,
-60512300,
-60680000,
-60690000,
 61500000,Firespark Perfume Bottle
 61510000,Chilling Perfume Bottle
 61520000,Frenzyflame Perfume Bottle
 61530000,Lightning Perfume Bottle
 61540000,Deadly Poison Perfume Bottle
-61690000,
 62500000,Dueling Shield
 62500100,Heavy Dueling Shield
 62500200,Keen Dueling Shield
@@ -6106,17 +3250,6 @@ ID,Name
 62501000,Poison Dueling Shield
 62501100,Blood Dueling Shield
 62501200,Occult Dueling Shield
-62501300,
-62501400,
-62501500,
-62501600,
-62501700,
-62501800,
-62501900,
-62502000,
-62502100,
-62502200,
-62502300,
 62510000,Carian Thrusting Shield
 63500000,Smithscript Dagger
 63500100,Heavy Smithscript Dagger
@@ -6131,17 +3264,6 @@ ID,Name
 63501000,Poison Smithscript Dagger
 63501100,Blood Smithscript Dagger
 63501200,Occult Smithscript Dagger
-63501300,
-63501400,
-63501500,
-63501600,
-63501700,
-63501800,
-63501900,
-63502000,
-63502100,
-63502200,
-63502300,
 64500000,Backhand Blade
 64500100,Heavy Backhand Blade
 64500200,Keen Backhand Blade
@@ -6155,17 +3277,6 @@ ID,Name
 64501000,Poison Backhand Blade
 64501100,Blood Backhand Blade
 64501200,Occult Backhand Blade
-64501300,
-64501400,
-64501500,
-64501600,
-64501700,
-64501800,
-64501900,
-64502000,
-64502100,
-64502200,
-64502300,
 64510000,Smithscript Cirque
 64510100,Heavy Smithscript Cirque
 64510200,Keen Smithscript Cirque
@@ -6179,17 +3290,6 @@ ID,Name
 64511000,Poison Smithscript Cirque
 64511100,Blood Smithscript Cirque
 64511200,Occult Smithscript Cirque
-64511300,
-64511400,
-64511500,
-64511600,
-64511700,
-64511800,
-64511900,
-64512000,
-64512100,
-64512200,
-64512300,
 64520000,Curseblade's Cirque
 66500000,Great Katana
 66500100,Heavy Great Katana
@@ -6204,21 +3304,8 @@ ID,Name
 66501000,Poison Great Katana
 66501100,Blood Great Katana
 66501200,Occult Great Katana
-66501300,
-66501400,
-66501500,
-66501600,
-66501700,
-66501800,
-66501900,
-66502000,
-66502100,
-66502200,
-66502300,
 66510000,Dragon-Hunter's Great Katana
 66520000,Rakshasa's Great Katana
-66680000,
-66690000,
 67500000,Milady
 67500100,Heavy Milady
 67500200,Keen Milady
@@ -6232,20 +3319,8 @@ ID,Name
 67501000,Poison Milady
 67501100,Blood Milady
 67501200,Occult Milady
-67501300,
-67501400,
-67501500,
-67501600,
-67501700,
-67501800,
-67501900,
-67502000,
-67502100,
-67502200,
-67502300,
 67510000,Leda's Sword
 67520000,Rellana's Twin Blades
-67690000,
 68500000,Beast Claw
 68500100,Heavy Beast Claw
 68500200,Keen Beast Claw
@@ -6259,32 +3334,4 @@ ID,Name
 68501000,Poison Beast Claw
 68501100,Blood Beast Claw
 68501200,Occult Beast Claw
-68501300,
-68501400,
-68501500,
-68501600,
-68501700,
-68501800,
-68501900,
-68502000,
-68502100,
-68502200,
-68502300,
 68510000,Red Bear's Claw
-68520000,
-68530000,
-68680000,
-68690000,
-90000000,
-90010000,
-90020000,
-90030000,
-98990000,
-99000000,
-99010000,
-99020000,
-99030000,
-99040000,
-99050000,
-99060000,
-99999999,

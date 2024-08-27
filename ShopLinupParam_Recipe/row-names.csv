@@ -1,10 +1,5 @@
 ID,Name
-1,
 30000,Furlcalling Finger Remedy - Default
-30010,
-30020,
-30030,
-30031,
 30100,Fire Pot - Default
 30101,Redmane Fire Pot - Armorer's Cookbook [4]
 30102,Giantsflame Fire Pot - Armorer's Cookbook [7]
@@ -39,10 +34,6 @@ ID,Name
 30200,Rowa Raisin - Default
 30201,Sweet Raisin - Nomadic Warrior's Cookbook [19]
 30202,Frozen Raisin - Nomadic Warrior's Cookbook [23]
-30203,
-30204,
-30205,
-30206,
 30300,Neutralizing Boluses - Armorer's Cookbook [2]
 30301,Stanching Boluses - Nomadic Cookbook [7]
 30302,Thawfrost Boluses - Nomadic Warrior's Cookbook [16]
@@ -62,14 +53,10 @@ ID,Name
 30409,Silver-Pickled Fowl Foot - Missionary's Cookbook [3]
 30410,Gold-Pickled Fowl Foot - Missionary's Cookbook [2]
 30411,Exalted Flesh - Armorer's Cookbook [3]
-30412,
 30413,Immunizing White Cured Meat - Armorer's Cookbook [5]
 30414,Invigorating White Cured Meat - Nomadic Warrior's Cookbook [2]
 30415,Clarifying White Cured Meat - Nomadic Warrior's Cookbook [23]
 30416,Dappled White Cured Meat - Nomadic Warrior's Cookbook [18]
-30417,
-30418,
-30419,
 30500,Fire Grease - Armorer's Cookbook [1]
 30501,Lightning Grease - Ancient Dragon Apostle's Cookbook [1]
 30502,Magic Grease - Glintstone Craftsman's Cookbook [5]
@@ -87,18 +74,11 @@ ID,Name
 30514,Drawstring Blood Grease - Nomadic Warrior's Cookbook [6]
 30515,Drawstring Soporific Grease - Fevor's Cookbook [2]
 30516,Drawstring Poison Grease - Nomadeic Warrior's Cookbook [8]
-30517,
 30518,Drawstring Rot Grease - Nomadic Warrior's Cookbook [22]
 30519,Shield Grease - Glintstone Craftsman's Cookbook [4]
 30600,Bone Dart - Default
 30601,Poisonbone Dart - Nomadic Warrior's Cookbook [14]
 30602,Crystal Dart - Nomadic Warrior's Cookbook [11]
-30603,
-30604,
-30605,
-30606,
-30607,
-30608,
 30700,Rainbow Stone - Default
 30701,Glowstone - Nomadic Warrior's Cookbook [2]
 30702,Grace Mimic - Missionary's Cookbook [2]
@@ -109,45 +89,26 @@ ID,Name
 30802,Frenzyflame Stone - Frenzied’s Cookbook [2]
 30803,Scriptstone - Missionary's Cookbook [2]
 30804,Bewitching Branch - Fevor's Cookbook [3]
-30805,
 30900,Uplifting Aromatic - Perfumer's Cookbook [1]
 30901,Spark Aromatic - Perfumer's Cookbook [1]
 30902,Ironjar Aromatic - Perfumer's Cookbook [3]
 30903,Bloodboil Aromatic - Perfumer's Cookbook [2]
 30904,Poison Spraymist - Perfumer's Cookbook [2]
 30905,Acid Spraymist - Perfumer's Cookbook [4]
-30906,
-30907,
-30908,
-30909,
-30910,
-30911,
-30912,
-30913,
-32000,
 32001,Bone Arrow - Nomadic Warrior's Cookbook [1]
-32002,
 32003,Firebone Arrow - Armorer's Cookbook [2]
-32004,
 32005,Poisonbone Arrow - Nomadic Warrior's Cookbook [3]
-32006,
 32007,Sleepbone Arrow - Fevor's Cookbook [2]
 32008,Stormwing Bone Arrow - Nomadic Warrior's Cookbook [10]
-32009,
-32010,Lightningbone Arrow - Ancient Dragon Apostle's Cookbook [1]
 32011,Rainbow Stone Arrow - Nomadic Warrior's Cookbook [7]
 32012,Shattershard Arrow - Nomadic Warrior's Cookbook [11]
-32013,
 32014,Magicbone Arrow - Glintstone Craftsman's Cookbook [5]
-32015,
 32016,Haligbone Arrow - Missionary's Cookbook [4]
-32017,
 32018,Bloodbone Arrow - Nomadic Warrior's Cookbook [6]
 32019,Blightbone Arrow - Missionary's Cookbook [7]
 32020,Coldbone Arrow - Glintstone Craftsman's Cookbook [7]
 32021,Frenzybone Arrow - Frenzied Cookbook [1]
 32022,Rotbone Arrow - Nomadic Warrior's Cookbook [15]
-32100,
 32101,Bone Great Arrow - Nomadic Warrior's Cookbook [1]
 32200,Bone Bolt - Nomadic Warrior's Cookbook [1]
 32201,Firebone Bolt - Armorer's Cookbook [2]
@@ -159,209 +120,4 @@ ID,Name
 32207,Coldbone Bolt - Glintstone Craftsman's Cookbook [7]
 32208,Rotbone Bolt - Nomadic Warrior's Cookbook [15]
 32209,Sleepbone Bolt -  Fevor's Cookbook [2]
-32210,Blightbone Bolt - Missionary's Cookbook [7]
-32211,Frenzybone Bolt - Frenzied Cookbook [1]
 32300,Bone Ballista Bolt - Nomadic Warrior's Cookbook [13]
-33000,
-33100,
-35100,
-35101,
-35102,
-35104,
-35105,
-35106,
-35107,
-35108,
-35110,
-35111,
-35112,
-35113,
-35114,
-35115,
-35116,
-35120,
-35121,
-35122,
-35131,
-35200,
-35300,
-35400,
-35401,
-35410,
-35411,
-35412,
-35413,
-35414,
-35415,
-35500,
-35501,
-35502,
-35503,
-35504,
-35505,
-35506,
-35507,
-35508,
-35509,
-35510,
-35511,
-35600,
-35700,
-35800,
-35801,
-35802,
-35803,
-35804,
-35805,
-35806,
-35807,
-35808,
-36999,
-37000,
-37001,
-37002,
-37003,
-37004,
-37005,
-37006,
-37007,
-37008,
-37051,
-37052,
-37053,
-37054,
-37099,
-37100,
-37101,
-37102,
-37103,
-37104,
-37105,
-37106,
-37107,
-37108,
-37109,
-37110,
-37111,
-37112,
-37151,
-37152,
-37153,
-37154,
-37155,
-37199,
-37200,
-37201,
-37202,
-37250,
-37251,
-37252,
-37499,
-37500,
-37501,
-37502,
-37503,
-37504,
-37550,
-37600,
-37601,
-37602,
-37650,
-37700,
-37701,
-37702,
-37800,
-37801,
-37802,
-37803,
-37850,
-37851,
-37999,
-38000,
-38001,
-38002,
-38003,
-38051,
-38052,
-38100,
-38101,
-38102,
-38103,
-38104,
-38200,
-38201,
-38202,
-38203,
-38204,
-38205,
-38300,
-38301,
-38400,
-38401,
-38402,
-38403,
-38451,
-38500,
-38501,
-38550,
-38551,
-38600,
-38601,
-38602,
-38651,
-38999,
-39000,
-39001,
-39002,
-39003,
-39004,
-39005,
-39050,
-39051,
-39052,
-39100,
-39101,
-39102,
-39150,
-39200,
-39201,
-39202,
-39250,
-39251,
-39252,
-39300,
-39301,
-39302,
-39350,
-39351,
-39400,
-39401,
-39402,
-39403,
-39500,
-39501,
-39502,
-39503,
-39550,
-39551,
-39552,
-39553,
-39600,
-39601,
-39602,
-39603,
-39604,
-39651,
-39653,
-39700,
-39701,
-39702,
-39800,
-39801,
-39802,
-39803,
-39851,
-39900,
-39901,
-39950,
-39951,
