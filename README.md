@@ -15,7 +15,7 @@ Use the following steps within Smithbox when importing each of the various files
 - Increased Short sword crit mult by 30
 
 ## Frenzy/Blight Bolts
-- These share the same icon as the frenzy/blight arrows, and they are named ?weaponName? because I don't know how to name them.
+- These share the same icon as the frenzy/blight arrows, and they are named "?weaponName?" because changing names involves more than just param work
 - Go to Param Editor, then within the following param categories, click *Data -> Import CSV -> All Fields* then paste in the text from `New/frenzy-blight-bolts.csv` which should be in each folder named according to the param category. (e.g. `EquipMtrlSetParam/New/frenzy-blight-bolts.csv`)
   - EquipMtrlSetParam
     - The recipes to craft the bolts
