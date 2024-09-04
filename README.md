@@ -14,6 +14,14 @@ Use the following steps within Smithbox when importing each of the various files
 #### Changes
 - Increased Short sword crit mult by 30
 
+## Moveset Changes
+- Go to Param Editor -> EquipParamWeapon
+- Click *Data -> Import CSV -> Specific Field -> wepmotionCategory* and paste in the text from wepmotionCategory.csv
+- Click *Data -> Import CSV -> Specific Field -> spAtkcategory* and paste in the text from spAtkcategory.csv
+- Click *Data -> Import CSV -> Specific Field -> wepType* and paste in the text from wepType.csv
+#### Changes
+- Changed Forked Greatsword into a curved greatsword
+
 ## Frenzy/Blight Bolts
 - These share the same icon as the frenzy/blight arrows, and they are named "?weaponName?" because changing names involves more than just param work
 - Go to Param Editor, then within the following param categories, click *Data -> Import CSV -> All Fields* then paste in the text from `New/frenzy-blight-bolts.csv` which should be in each folder named according to the param category. (e.g. `EquipMtrlSetParam/New/frenzy-blight-bolts.csv`)
