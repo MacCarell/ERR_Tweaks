@@ -16,9 +16,7 @@ Use the following steps within Smithbox when importing each of the various files
 
 ## Moveset Changes
 - Go to Param Editor -> EquipParamWeapon
-- Click *Data -> Import CSV -> Specific Field -> wepmotionCategory* and paste in the text from wepmotionCategory.csv
-- Click *Data -> Import CSV -> Specific Field -> spAtkcategory* and paste in the text from spAtkcategory.csv
-- Click *Data -> Import CSV -> Specific Field -> wepType* and paste in the text from wepType.csv
+- Click *Data -> Import CSV -> All Fields -> wepmotionCategory* and paste in the text from forked-greatsword.csv
 #### Changes
 - Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks
 
