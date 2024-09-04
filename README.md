@@ -20,7 +20,7 @@ Use the following steps within Smithbox when importing each of the various files
 - Click *Data -> Import CSV -> Specific Field -> spAtkcategory* and paste in the text from spAtkcategory.csv
 - Click *Data -> Import CSV -> Specific Field -> wepType* and paste in the text from wepType.csv
 #### Changes
-- Changed Forked Greatsword into a curved greatsword
+- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks
 
 ## Frenzy/Blight Bolts
 - These share the same icon as the frenzy/blight arrows, and they are named "?weaponName?" because changing names involves more than just param work
