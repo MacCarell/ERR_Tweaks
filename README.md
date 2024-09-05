@@ -1,4 +1,4 @@
-Latest update supported (1.0.2A)
+# Latest update supported (1.0.2A)
 
 # Within Smithbox
 Use the following steps within Smithbox when importing each of the various files
