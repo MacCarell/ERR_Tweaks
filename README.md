@@ -22,7 +22,7 @@ Use the following steps within Smithbox when importing each of the various files
 - (Not in smithbox) Drop the 'mod' folder into your Reforged folder, overriding the c0000.anibnd.dcx.
   - *This runs the risk of being outdated when ERR is updated*
 #### Changes
-- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks
+- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks, and thrusting crit attacks.
 
 ## Row Names
 - Go to the Param Editor and then to the param category which matches a folder name
