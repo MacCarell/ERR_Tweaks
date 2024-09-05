@@ -18,6 +18,7 @@ Use the following steps within Smithbox when importing each of the various files
 ## Moveset Changes
 - Go to Param Editor -> EquipParamWeapon
 - Click *Data -> Import CSV -> All Fields and paste in the text from forked-greatsword.csv
+- (Not in smithbox) Drop the 'mod' folder into your Reforged folder, overriding the c0000.anibnd.dcx.
 #### Changes
 - Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks
 
