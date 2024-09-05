@@ -4,9 +4,10 @@ Use the following steps within Smithbox when importing each of the various files
 ## All Weapon Changes (Risk of some things getting outdated)
 - Go to Param Editor -> EquipParamWeapon
 - Click *Data -> Import CSV -> All Fields and paste in the text from all-weapon-changes.csv
+- (Not in smithbox) Drop the 'mod' folder into your Reforged folder, overriding the c0000.anibnd.dcx.
 #### Changes
 - Increased Short sword crit mult by 30
-- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks
+- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks, and thrusting crit attacks.
 
 ## Crit Damage Changes
 - Go to Param Editor -> EquipParamWeapon
