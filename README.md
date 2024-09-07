@@ -44,9 +44,8 @@ Use the following steps within Smithbox when importing each of the various files
 #### Changes
 - Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks.
 
-## Animation Changes
-- (Not in smithbox) Drop the 'mod' folder into your Reforged folder, overriding the `c0000.anibnd.dcx` and `c0000_a7x.anibnd.dcx` files.
-  - *This runs the risk of being outdated when ERR is updated*
+## Animation Changes (*!! Ensure the Reforged version above matches yours !!*)
+- Drop the 'mod' folder into your Reforged folder, overriding the `c0000.anibnd.dcx` and `c0000_a7x.anibnd.dcx` files.
  #### Changes
   - `c0000.anibnd.dcx`
     - Gave Forked GS thrusting crit animations 
