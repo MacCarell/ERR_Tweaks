@@ -8,11 +8,10 @@
 # Basic
 Drag and drop the `mod` folder into your Reforged folder, overwriting `regulation.bin` and other files.
 
-For my PostureBarMod config/textures, drag and drop the `game` folder into your ELDEN RING folder. 
-(Requires PostureBarMod be installed via EldenModLoader)
-  - PostureBarMod: https://www.nexusmods.com/eldenring/mods/3405/
-  - Elden Mod Loader: https://www.nexusmods.com/eldenring/mods/117
-  - I have included the xcf files for use with GIMP if you want to edit them at all yourself.
+For my PostureBarMod config/textures, install [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?tab=files) into your `ELDEN RING/Game` folder, then drag and drop my `Game` folder into your `ELDEN RING` folder, overriding `mod_loader_config.ini`.
+  - All credit to Mordrog for the [Posture Bar Mod](https://www.nexusmods.com/eldenring/mods/3405/?tab=description)
+    - Download it from Nexus and endorse so he gets those sweet donation points for cash.
+  - I have included the `.xcf` files for use with GIMP if you want to edit them at all yourself.
 
 #### Changes
 - Increased Short Sword crit mult by 30
