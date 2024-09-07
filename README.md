@@ -3,6 +3,7 @@
 - **!! Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
 - **!! Keep backups. I fuck up on occasion.**
 - **!! If you encounter issues, revert your files to the original Reforged files before seeking technical assistance or reporting bugs.**
+- **!! Backup your saves! Say for instance you put a CGS-only ash of war on Forked Greatsword then update ERR and load the game without my tweaks. Not good, probably.**
 
 
 # Basic
