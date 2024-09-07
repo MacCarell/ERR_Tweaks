@@ -1,6 +1,6 @@
 # Latest update supported (1.0.2A)
 - **Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
-- **And keep backups. I fuck up on occasion.**
+- **Keep backups. I fuck up on occasion.**
 - **If you encounter issues, revert your files to the original Reforged files before seeking technical assistance or reporting bugs.**
 
 
