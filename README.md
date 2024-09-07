@@ -1,11 +1,22 @@
 # Latest update supported (1.0.2A)
 - **Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
-- **And keep backups. I fuck up on occasion.**
+- **Keep backups. I fuck up on occasion.**
 - **If you encounter issues, revert your files to the original Reforged files before seeking technical assistance or reporting bugs.**
 
 
 # Basic
 Drag and drop the `mod` folder into your Reforged folder, overwriting `regulation.bin` and other files.
+
+For my PostureBarMod config/textures, drag and drop the `game` folder into your ELDEN RING folder. 
+(Requires PostureBarMod be installed via EldenModLoader)
+  - PostureBarMod: https://www.nexusmods.com/eldenring/mods/3405/
+  - Elden Mod Loader: https://www.nexusmods.com/eldenring/mods/117
+  - I have included the xcf files for use with GIMP if you want to edit them at all yourself.
+
+#### Changes
+- Increased Short Sword crit mult by 30
+- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks, and thrusting crit attacks
+- Made Inescapable Frenzy quicker and increased its distance
 
 
 # Advanced (Requires Smithbox)
