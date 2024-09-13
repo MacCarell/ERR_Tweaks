@@ -1,4 +1,4 @@
-# Latest update supported (1.0.2A)
+# Latest update supported (1.0.5E)
 ## DISCLAIMERS
 - **!! Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
 - **!! Keep backups. I fuck up on occasion.**
