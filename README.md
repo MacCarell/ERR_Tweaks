@@ -1,3 +1,11 @@
+# Posture Bar Mod Config/Textures
+Install [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?tab=files) into your `ELDEN RING/Game` folder, then drag and drop my `Game` folder into your `ELDEN RING` folder, overriding `mod_loader_config.ini`.
+Make sure you are playing in Borderless Windowed mode, otherwise you will run into issues. It's generally better than fullscreen anyway.
+  - All credit to Mordrog for the [Posture Bar Mod](https://www.nexusmods.com/eldenring/mods/3405/?tab=description)
+    - Download it from Nexus and endorse so he gets those sweet donation points for cash.
+  - I have included the `.xcf` files for use with GIMP if you want to edit them at all yourself.
+
+
 # Latest update supported (1.0.5E)
 ## DISCLAIMERS
 - **!! Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
@@ -5,15 +13,8 @@
 - **!! If you encounter issues, revert your files to the original Reforged files before seeking technical assistance or reporting bugs.**
 - **!! Backup your saves! Say for instance you put a CGS-only ash of war on Forked Greatsword then update ERR and load the game without my tweaks. Not good, probably.**
 
-
 # Basic
 Drag and drop the `mod` folder into your Reforged folder, overwriting `regulation.bin` and other files.
-
-For my PostureBarMod config/textures, install [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?tab=files) into your `ELDEN RING/Game` folder, then drag and drop my `Game` folder into your `ELDEN RING` folder, overriding `mod_loader_config.ini`.
-Make sure you are playing in Borderless Windowed mode, otherwise you will run into issues. It's better than fullscreen anyway just in general.
-  - All credit to Mordrog for the [Posture Bar Mod](https://www.nexusmods.com/eldenring/mods/3405/?tab=description)
-    - Download it from Nexus and endorse so he gets those sweet donation points for cash.
-  - I have included the `.xcf` files for use with GIMP if you want to edit them at all yourself.
 
 #### Changes
 - Increased Short Sword crit mult by 30
