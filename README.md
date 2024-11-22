@@ -5,8 +5,8 @@ Make sure you are playing in Borderless Windowed mode, otherwise you will run in
     - Download it from Nexus and endorse so he gets those sweet donation points for cash.
   - I have included the `.xcf` files for use with GIMP if you want to edit them at all yourself.
 
-
-# Latest update supported (1.0.5E)
+# Functional Changes
+## Latest update supported (1.2.1)
 ## DISCLAIMERS
 - **!! Before replacing files, ensure I have updated this repo to the latest edition of Reforged.**
 - **!! Keep backups. I fuck up on occasion.**
@@ -18,8 +18,9 @@ Drag and drop the `mod` folder into your Reforged folder, overwriting `regulatio
 
 #### Changes
 - Increased Short Sword crit mult by 30
-- Changed Forked Greatsword into a curved greatsword with thrusting r2 attacks, and thrusting crit attacks
-- Made Inescapable Frenzy quicker and increased its distance
+- Changed Forked Greatsword into a curved greatsword with thrusting heavy/crit attacks
+- Reduced Warped Axe Light attack recovery to be more like vanilla
+- (Not anymore) Made Inescapable Frenzy quicker and increased its distance
 
 
 # Advanced (Requires Smithbox)
