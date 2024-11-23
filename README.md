@@ -1,5 +1,5 @@
 # Posture Bar Mod Config/Textures
-Install [(link:) Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?tab=files) into your `ELDEN RING/Game` folder, then drag and drop everything in my `Game/` folder into your `ELDEN RING/Game/` folder, overriding `mod_loader_config.ini`.
+Install [(link:) Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?tab=files) into your `ELDEN RING/Game/` folder, then drag and drop everything in my `Game/` folder into your `ELDEN RING/Game/` folder, overriding `mod_loader_config.ini`.
 *Make sure your game is running in Borderless Windowed mode.*
   - All credit to Mordrog for the [(link:) Posture Bar Mod](https://www.nexusmods.com/eldenring/mods/3405/?tab=description)
     - Download it from Nexus and endorse.
