@@ -6,7 +6,7 @@ Install [(link:) Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117?
 
 
 # Functional Changes
-## Latest update supported (1.2.1)
+## Latest update supported (1.2.3)
 ### DISCLAIMERS
 - **Make sure above the version matches latest edition of Reforged.**
 - **Backup your Reforged files and saves.**
